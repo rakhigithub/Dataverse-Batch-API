@@ -1,0 +1,6002 @@
+[
+  {
+    "title": "Product Announcement: Web Portal — v1.0"
+  },
+  {
+    "title": "Procurement Request: Reporting — Pilot"
+  },
+  {
+    "title": "Security Advisory: Data Lake — Phase 1"
+  },
+  {
+    "title": "FAQ: DevOps Pipeline — Usability"
+  },
+  {
+    "title": "Bug Report: Single Sign-On — Optimization"
+  },
+  {
+    "title": "Feature Request: Payments — v2.0"
+  },
+  {
+    "title": "Data Quality Issue: Search — Scalability"
+  },
+  {
+    "title": "Roadmap Item: Payments — Usability"
+  },
+  {
+    "title": "Data Quality Issue: Backup & Restore — Resilience"
+  },
+  {
+    "title": "Service Catalogue: File Storage — Optimization"
+  },
+  {
+    "title": "Security Advisory: Geo-Location — Security"
+  },
+  {
+    "title": "Compliance Update: Monitoring — v1.0"
+  },
+  {
+    "title": "Invoice Reconciliation: Monitoring — Q1 2026"
+  },
+  {
+    "title": "Service Catalogue: Fraud Detection — GA"
+  },
+  {
+    "title": "Compliance Update: Data Lake — Q2 2026"
+  },
+  {
+    "title": "Invoice Reconciliation: Orders — Phase 1"
+  },
+  {
+    "title": "Bug Report: Billing — Phase 1"
+  },
+  {
+    "title": "User Story: Product Catalog — Hotfix"
+  },
+  {
+    "title": "Roadmap Item: Reporting — v1.1"
+  },
+  {
+    "title": "Procurement Request: Geo-Location — Usability"
+  },
+  {
+    "title": "Customer Feedback: Supply Chain — Refactor"
+  },
+  {
+    "title": "Bug Report: File Storage — Beta"
+  },
+  {
+    "title": "Architecture Decision Record: Accessibility — Availability"
+  },
+  {
+    "title": "Data Migration Task: Product Catalog — Hotfix"
+  },
+  {
+    "title": "Quarterly Review: Notifications — v2.0"
+  },
+  {
+    "title": "Feature Request: Localization — Pilot"
+  },
+  {
+    "title": "Invoice Reconciliation: Inventory — v2.0"
+  },
+  {
+    "title": "Dashboard: Search — Phase 1"
+  },
+  {
+    "title": "Test Case: Reporting — Migration"
+  },
+  {
+    "title": "Product Announcement: Caching — Hotfix"
+  },
+  {
+    "title": "API Specification: Customer 360 — Hotfix"
+  },
+  {
+    "title": "Data Quality Issue: Localization — MVP"
+  },
+  {
+    "title": "Service Catalogue: Supply Chain — Resilience"
+  },
+  {
+    "title": "Bug Report: Performance — Resilience"
+  },
+  {
+    "title": "API Specification: File Storage — Pilot"
+  },
+  {
+    "title": "API Specification: Geo-Location — Refactor"
+  },
+  {
+    "title": "Compliance Update: Supply Chain — Resilience"
+  },
+  {
+    "title": "Service Catalogue: File Storage — Pilot"
+  },
+  {
+    "title": "FAQ: Orders — v1.1"
+  },
+  {
+    "title": "Security Advisory: Caching — v1.1"
+  },
+  {
+    "title": "OKR: Orders — Refactor"
+  },
+  {
+    "title": "Compliance Update: Mobile App — Q2 2026"
+  },
+  {
+    "title": "Integration Checklist: Single Sign-On — GA"
+  },
+  {
+    "title": "Data Quality Issue: Accessibility — Rollback Plan"
+  },
+  {
+    "title": "Test Case: Loyalty Program — Resilience"
+  },
+  {
+    "title": "Change Request: Data Lake — MVP"
+  },
+  {
+    "title": "Onboarding Guide: Search — Usability"
+  },
+  {
+    "title": "Marketing Campaign: Reporting — Security"
+  },
+  {
+    "title": "Incident: Loyalty Program — Security"
+  },
+  {
+    "title": "Test Case: Customer 360 — Pilot"
+  },
+  {
+    "title": "Onboarding Guide: Email Service — Rollback Plan"
+  },
+  {
+    "title": "Bug Report: CI/CD — v1.1"
+  },
+  {
+    "title": "Dashboard: Web Portal — Phase 2"
+  },
+  {
+    "title": "Product Announcement: Analytics — Optimization"
+  },
+  {
+    "title": "Roadmap Item: Mobile App — Refactor"
+  },
+  {
+    "title": "Test Case: Performance — Migration"
+  },
+  {
+    "title": "Training Module: Reporting — Usability"
+  },
+  {
+    "title": "Dashboard: Payments — Phase 1"
+  },
+  {
+    "title": "FAQ: Loyalty Program — Usability"
+  },
+  {
+    "title": "Invoice Reconciliation: Reporting — Resilience"
+  },
+  {
+    "title": "Epic: Web Portal — Beta"
+  },
+  {
+    "title": "Incident: Analytics — Migration"
+  },
+  {
+    "title": "Release Notes: DevOps Pipeline — MVP"
+  },
+  {
+    "title": "Training Module: CI/CD — Q1 2026"
+  },
+  {
+    "title": "Training Module: Supply Chain — Phase 1"
+  },
+  {
+    "title": "Dashboard: Accessibility — Beta"
+  },
+  {
+    "title": "Architecture Decision Record: Accessibility — Scalability"
+  },
+  {
+    "title": "Roadmap Item: Notifications — Phase 2"
+  },
+  {
+    "title": "User Story: CI/CD — Q1 2026"
+  },
+  {
+    "title": "Marketing Campaign: CI/CD — Scalability"
+  },
+  {
+    "title": "Integration Checklist: Payments — Availability"
+  },
+  {
+    "title": "Epic: Chatbot — v1.0"
+  },
+  {
+    "title": "Customer Feedback: Supply Chain — Hotfix"
+  },
+  {
+    "title": "Data Migration Task: Caching — Beta"
+  },
+  {
+    "title": "Security Advisory: Authentication — Pilot"
+  },
+  {
+    "title": "Data Migration Task: Single Sign-On — v2.0"
+  },
+  {
+    "title": "Bug Report: DevOps Pipeline — Rollback Plan"
+  },
+  {
+    "title": "Architecture Decision Record: Mobile App — Usability"
+  },
+  {
+    "title": "Invoice Reconciliation: Data Lake — Phase 2"
+  },
+  {
+    "title": "FAQ: Chatbot — Usability"
+  },
+  {
+    "title": "API Specification: Reporting — Scalability"
+  },
+  {
+    "title": "Dashboard: Performance — Optimization"
+  },
+  {
+    "title": "Data Quality Issue: Supply Chain — Usability"
+  },
+  {
+    "title": "Invoice Reconciliation: DevOps Pipeline — Q2 2026"
+  },
+  {
+    "title": "Service Catalogue: Inventory — Refactor"
+  },
+  {
+    "title": "FAQ: Accessibility — Hotfix"
+  },
+  {
+    "title": "Change Request: Loyalty Program — Scalability"
+  },
+  {
+    "title": "Change Request: Web Portal — Pilot"
+  },
+  {
+    "title": "Security Advisory: Mobile App — GA"
+  },
+  {
+    "title": "Release Notes: Single Sign-On — Usability"
+  },
+  {
+    "title": "Security Advisory: Single Sign-On — Pilot"
+  },
+  {
+    "title": "Release Notes: Mobile App — Resilience"
+  },
+  {
+    "title": "Feature Request: Search — v2.0"
+  },
+  {
+    "title": "Data Migration Task: Authentication — GA"
+  },
+  {
+    "title": "Bug Report: Email Service — Pilot"
+  },
+  {
+    "title": "Compliance Update: Localization — Rollback Plan"
+  },
+  {
+    "title": "Data Quality Issue: File Storage — Phase 2"
+  },
+  {
+    "title": "Procurement Request: Supply Chain — Security"
+  },
+  {
+    "title": "Quarterly Review: Chatbot — Pilot"
+  },
+  {
+    "title": "OKR: Chatbot — Optimization"
+  },
+  {
+    "title": "Data Quality Issue: Web Portal — Phase 1"
+  },
+  {
+    "title": "FAQ: Fraud Detection — Hotfix"
+  },
+  {
+    "title": "Incident: Fraud Detection — Migration"
+  },
+  {
+    "title": "Dashboard: DevOps Pipeline — v1.1"
+  },
+  {
+    "title": "FAQ: Accessibility — Resilience"
+  },
+  {
+    "title": "Customer Feedback: Authentication — Refactor"
+  },
+  {
+    "title": "Procurement Request: Orders — Phase 1"
+  },
+  {
+    "title": "Security Advisory: Notifications — Q2 2026"
+  },
+  {
+    "title": "Marketing Campaign: Geo-Location — Phase 2"
+  },
+  {
+    "title": "Incident: Analytics — MVP"
+  },
+  {
+    "title": "Change Request: Search — v2.0"
+  },
+  {
+    "title": "Change Request: Monitoring — Usability"
+  },
+  {
+    "title": "Customer Feedback: Authentication — Resilience"
+  },
+  {
+    "title": "Marketing Campaign: Caching — v1.0"
+  },
+  {
+    "title": "Bug Report: Supply Chain — Pilot"
+  },
+  {
+    "title": "API Specification: Fraud Detection — Rollback Plan"
+  },
+  {
+    "title": "Knowledge Base: Notifications — Refactor"
+  },
+  {
+    "title": "Data Migration Task: Authentication — Q1 2026"
+  },
+  {
+    "title": "Test Case: Payments — Refactor"
+  },
+  {
+    "title": "Compliance Update: Supply Chain — Migration"
+  },
+  {
+    "title": "Sprint Goal: Fraud Detection — Usability"
+  },
+  {
+    "title": "FAQ: Backup & Restore — Rollback Plan"
+  },
+  {
+    "title": "Onboarding Guide: Notifications — Beta"
+  },
+  {
+    "title": "Data Quality Issue: Authentication — Security"
+  },
+  {
+    "title": "Procurement Request: File Storage — v1.1"
+  },
+  {
+    "title": "Procurement Request: Orders — v1.1"
+  },
+  {
+    "title": "Feature Request: Single Sign-On — Rollback Plan"
+  },
+  {
+    "title": "Training Module: Supply Chain — Scalability"
+  },
+  {
+    "title": "API Specification: Authentication — Scalability"
+  },
+  {
+    "title": "Bug Report: Product Catalog — Q1 2026"
+  },
+  {
+    "title": "Bug Report: Performance — v2.0"
+  },
+  {
+    "title": "FAQ: Product Catalog — Pilot"
+  },
+  {
+    "title": "Test Case: Web Portal — Security"
+  },
+  {
+    "title": "Security Advisory: Single Sign-On — Availability"
+  },
+  {
+    "title": "Feature Request: Performance — v2.0"
+  },
+  {
+    "title": "Incident: Localization — Security"
+  },
+  {
+    "title": "Quarterly Review: Email Service — GA"
+  },
+  {
+    "title": "Integration Checklist: Reporting — Q2 2026"
+  },
+  {
+    "title": "FAQ: Backup & Restore — GA"
+  },
+  {
+    "title": "Security Advisory: Reporting — Refactor"
+  },
+  {
+    "title": "Onboarding Guide: Localization — Resilience"
+  },
+  {
+    "title": "Sprint Goal: Geo-Location — GA"
+  },
+  {
+    "title": "Integration Checklist: CI/CD — v2.0"
+  },
+  {
+    "title": "Release Notes: Geo-Location — Availability"
+  },
+  {
+    "title": "Quarterly Review: Web Portal — v2.0"
+  },
+  {
+    "title": "Marketing Campaign: Notifications — Scalability"
+  },
+  {
+    "title": "Compliance Update: Data Lake — Hotfix"
+  },
+  {
+    "title": "Data Migration Task: Mobile App — Pilot"
+  },
+  {
+    "title": "User Story: Inventory — Q1 2026"
+  },
+  {
+    "title": "Change Request: Caching — Usability"
+  },
+  {
+    "title": "Service Catalogue: Inventory — Availability"
+  },
+  {
+    "title": "OKR: Accessibility — Scalability"
+  },
+  {
+    "title": "Release Notes: Localization — Usability"
+  },
+  {
+    "title": "Sprint Goal: Supply Chain — Phase 1"
+  },
+  {
+    "title": "Data Migration Task: Data Lake — MVP"
+  },
+  {
+    "title": "Customer Feedback: Loyalty Program — Phase 1"
+  },
+  {
+    "title": "Procurement Request: File Storage — Phase 2"
+  },
+  {
+    "title": "Compliance Update: Inventory — Availability"
+  },
+  {
+    "title": "Data Quality Issue: Backup & Restore — GA"
+  },
+  {
+    "title": "Data Quality Issue: Localization — Resilience"
+  },
+  {
+    "title": "Dashboard: Reporting — Scalability"
+  },
+  {
+    "title": "Knowledge Base: Reporting — v1.1"
+  },
+  {
+    "title": "Bug Report: Accessibility — Optimization"
+  },
+  {
+    "title": "Architecture Decision Record: Reporting — v1.1"
+  },
+  {
+    "title": "Release Notes: Orders — Phase 2"
+  },
+  {
+    "title": "Product Announcement: Reporting — Q1 2026"
+  },
+  {
+    "title": "Service Catalogue: Fraud Detection — Usability"
+  },
+  {
+    "title": "Release Notes: Web Portal — v2.0"
+  },
+  {
+    "title": "Data Migration Task: Backup & Restore — Phase 2"
+  },
+  {
+    "title": "Marketing Campaign: Authentication — Hotfix"
+  },
+  {
+    "title": "Quarterly Review: File Storage — Phase 2"
+  },
+  {
+    "title": "Incident: Data Lake — v1.1"
+  },
+  {
+    "title": "Sprint Goal: Customer 360 — v1.1"
+  },
+  {
+    "title": "Data Migration Task: Customer 360 — Q2 2026"
+  },
+  {
+    "title": "FAQ: Search — Phase 1"
+  },
+  {
+    "title": "User Story: CI/CD — Usability"
+  },
+  {
+    "title": "Data Migration Task: Product Catalog — Optimization"
+  },
+  {
+    "title": "Roadmap Item: DevOps Pipeline — Phase 2"
+  },
+  {
+    "title": "Integration Checklist: Supply Chain — Pilot"
+  },
+  {
+    "title": "Dashboard: Analytics — Q1 2026"
+  },
+  {
+    "title": "Data Migration Task: Fraud Detection — v1.0"
+  },
+  {
+    "title": "API Specification: DevOps Pipeline — GA"
+  },
+  {
+    "title": "OKR: Supply Chain — Optimization"
+  },
+  {
+    "title": "OKR: Localization — Pilot"
+  },
+  {
+    "title": "Compliance Update: Analytics — Phase 1"
+  },
+  {
+    "title": "Test Case: Product Catalog — v1.1"
+  },
+  {
+    "title": "Dashboard: Chatbot — Pilot"
+  },
+  {
+    "title": "Data Quality Issue: Caching — Migration"
+  },
+  {
+    "title": "User Story: Inventory — Pilot"
+  },
+  {
+    "title": "Security Advisory: Payments — Q2 2026"
+  },
+  {
+    "title": "Test Case: Orders — MVP"
+  },
+  {
+    "title": "Dashboard: Mobile App — MVP"
+  },
+  {
+    "title": "User Story: Accessibility — Scalability"
+  },
+  {
+    "title": "Test Case: Localization — Usability"
+  },
+  {
+    "title": "Epic: Payments — Phase 1"
+  },
+  {
+    "title": "Data Migration Task: Reporting — Q1 2026"
+  },
+  {
+    "title": "Quarterly Review: Reporting — v1.1"
+  },
+  {
+    "title": "Customer Feedback: Performance — Optimization"
+  },
+  {
+    "title": "User Story: DevOps Pipeline — GA"
+  },
+  {
+    "title": "Incident: Performance — Scalability"
+  },
+  {
+    "title": "Customer Feedback: Billing — Security"
+  },
+  {
+    "title": "Data Quality Issue: Reporting — v1.1"
+  },
+  {
+    "title": "Service Catalogue: Fraud Detection — v1.0"
+  },
+  {
+    "title": "Training Module: Supply Chain — Usability"
+  },
+  {
+    "title": "FAQ: DevOps Pipeline — Q2 2026"
+  },
+  {
+    "title": "User Story: Fraud Detection — v2.0"
+  },
+  {
+    "title": "FAQ: Supply Chain — GA"
+  },
+  {
+    "title": "Roadmap Item: Orders — Phase 1"
+  },
+  {
+    "title": "Procurement Request: Loyalty Program — Beta"
+  },
+  {
+    "title": "Training Module: Inventory — Optimization"
+  },
+  {
+    "title": "Epic: Billing — Beta"
+  },
+  {
+    "title": "Marketing Campaign: Data Lake — Q2 2026"
+  },
+  {
+    "title": "Incident: Localization — Refactor"
+  },
+  {
+    "title": "FAQ: DevOps Pipeline — Q1 2026"
+  },
+  {
+    "title": "Roadmap Item: Single Sign-On — Beta"
+  },
+  {
+    "title": "Test Case: File Storage — v1.0"
+  },
+  {
+    "title": "Sprint Goal: Inventory — Q2 2026"
+  },
+  {
+    "title": "Incident: Monitoring — Security"
+  },
+  {
+    "title": "Roadmap Item: Accessibility — GA"
+  },
+  {
+    "title": "Change Request: Geo-Location — Migration"
+  },
+  {
+    "title": "FAQ: Notifications — Scalability"
+  },
+  {
+    "title": "Knowledge Base: Monitoring — Q1 2026"
+  },
+  {
+    "title": "FAQ: Mobile App — Beta"
+  },
+  {
+    "title": "Training Module: Localization — Resilience"
+  },
+  {
+    "title": "Roadmap Item: Orders — v2.0"
+  },
+  {
+    "title": "Architecture Decision Record: CI/CD — Pilot"
+  },
+  {
+    "title": "FAQ: Inventory — Pilot"
+  },
+  {
+    "title": "OKR: Notifications — Phase 2"
+  },
+  {
+    "title": "Release Notes: Authentication — Pilot"
+  },
+  {
+    "title": "Knowledge Base: Performance — v2.0"
+  },
+  {
+    "title": "Change Request: Fraud Detection — Resilience"
+  },
+  {
+    "title": "Quarterly Review: Notifications — Refactor"
+  },
+  {
+    "title": "Knowledge Base: Billing — Pilot"
+  },
+  {
+    "title": "Onboarding Guide: Accessibility — v1.0"
+  },
+  {
+    "title": "Data Migration Task: CI/CD — Phase 1"
+  },
+  {
+    "title": "Invoice Reconciliation: Fraud Detection — Pilot"
+  },
+  {
+    "title": "API Specification: Monitoring — Scalability"
+  },
+  {
+    "title": "Change Request: Authentication — Usability"
+  },
+  {
+    "title": "Security Advisory: Supply Chain — Phase 1"
+  },
+  {
+    "title": "Change Request: Data Lake — Migration"
+  },
+  {
+    "title": "FAQ: Email Service — Usability"
+  },
+  {
+    "title": "Roadmap Item: Orders — Migration"
+  },
+  {
+    "title": "Roadmap Item: Caching — Scalability"
+  },
+  {
+    "title": "Incident: Caching — Usability"
+  },
+  {
+    "title": "Change Request: Loyalty Program — Q1 2026"
+  },
+  {
+    "title": "Procurement Request: Product Catalog — Rollback Plan"
+  },
+  {
+    "title": "Change Request: Reporting — Pilot"
+  },
+  {
+    "title": "Architecture Decision Record: Accessibility — MVP"
+  },
+  {
+    "title": "Invoice Reconciliation: CI/CD — Scalability"
+  },
+  {
+    "title": "Knowledge Base: Accessibility — Pilot"
+  },
+  {
+    "title": "Compliance Update: Geo-Location — v2.0"
+  },
+  {
+    "title": "Service Catalogue: Inventory — Pilot"
+  },
+  {
+    "title": "Compliance Update: Orders — GA"
+  },
+  {
+    "title": "Data Migration Task: File Storage — v2.0"
+  },
+  {
+    "title": "Onboarding Guide: Data Lake — Pilot"
+  },
+  {
+    "title": "Test Case: Backup & Restore — Phase 2"
+  },
+  {
+    "title": "Service Catalogue: Notifications — v2.0"
+  },
+  {
+    "title": "Incident: Fraud Detection — GA"
+  },
+  {
+    "title": "Marketing Campaign: Geo-Location — Optimization"
+  },
+  {
+    "title": "Feature Request: Notifications — Optimization"
+  },
+  {
+    "title": "Test Case: Loyalty Program — Security"
+  },
+  {
+    "title": "Service Catalogue: Payments — Security"
+  },
+  {
+    "title": "Test Case: Chatbot — v1.0"
+  },
+  {
+    "title": "User Story: Inventory — Refactor"
+  },
+  {
+    "title": "Dashboard: Loyalty Program — Optimization"
+  },
+  {
+    "title": "Marketing Campaign: DevOps Pipeline — Usability"
+  },
+  {
+    "title": "OKR: Performance — Pilot"
+  },
+  {
+    "title": "Knowledge Base: Search — MVP"
+  },
+  {
+    "title": "Incident: Chatbot — v1.0"
+  },
+  {
+    "title": "Test Case: Orders — Refactor"
+  },
+  {
+    "title": "Procurement Request: Analytics — Migration"
+  },
+  {
+    "title": "Integration Checklist: Data Lake — Availability"
+  },
+  {
+    "title": "Marketing Campaign: Payments — Refactor"
+  },
+  {
+    "title": "Quarterly Review: Single Sign-On — v1.0"
+  },
+  {
+    "title": "Onboarding Guide: Product Catalog — Migration"
+  },
+  {
+    "title": "API Specification: Authentication — MVP"
+  },
+  {
+    "title": "Test Case: Orders — Q2 2026"
+  },
+  {
+    "title": "Change Request: Orders — GA"
+  },
+  {
+    "title": "Invoice Reconciliation: Loyalty Program — Refactor"
+  },
+  {
+    "title": "Compliance Update: CI/CD — Optimization"
+  },
+  {
+    "title": "Compliance Update: Caching — v2.0"
+  },
+  {
+    "title": "Knowledge Base: Payments — Usability"
+  },
+  {
+    "title": "Feature Request: Customer 360 — Pilot"
+  },
+  {
+    "title": "Product Announcement: Mobile App — Resilience"
+  },
+  {
+    "title": "Feature Request: CI/CD — v1.0"
+  },
+  {
+    "title": "Security Advisory: Notifications — v1.0"
+  },
+  {
+    "title": "Roadmap Item: Data Lake — Pilot"
+  },
+  {
+    "title": "Onboarding Guide: Chatbot — Phase 1"
+  },
+  {
+    "title": "Quarterly Review: Notifications — Migration"
+  },
+  {
+    "title": "Service Catalogue: Reporting — Hotfix"
+  },
+  {
+    "title": "API Specification: Performance — Availability"
+  },
+  {
+    "title": "Procurement Request: Backup & Restore — Phase 1"
+  },
+  {
+    "title": "Invoice Reconciliation: Caching — Q1 2026"
+  },
+  {
+    "title": "Sprint Goal: Web Portal — Security"
+  },
+  {
+    "title": "Release Notes: Supply Chain — Beta"
+  },
+  {
+    "title": "Quarterly Review: Localization — Refactor"
+  },
+  {
+    "title": "Test Case: Backup & Restore — Q2 2026"
+  },
+  {
+    "title": "Bug Report: Single Sign-On — Resilience"
+  },
+  {
+    "title": "Security Advisory: Web Portal — Beta"
+  },
+  {
+    "title": "Dashboard: Localization — Availability"
+  },
+  {
+    "title": "OKR: Web Portal — Security"
+  },
+  {
+    "title": "OKR: Authentication — Hotfix"
+  },
+  {
+    "title": "Marketing Campaign: Fraud Detection — Hotfix"
+  },
+  {
+    "title": "Bug Report: Email Service — Resilience"
+  },
+  {
+    "title": "Epic: Payments — Optimization"
+  },
+  {
+    "title": "Architecture Decision Record: Chatbot — Phase 1"
+  },
+  {
+    "title": "Incident: Customer 360 — Resilience"
+  },
+  {
+    "title": "Data Migration Task: Caching — Migration"
+  },
+  {
+    "title": "Service Catalogue: Data Lake — Optimization"
+  },
+  {
+    "title": "API Specification: DevOps Pipeline — Scalability"
+  },
+  {
+    "title": "Product Announcement: Reporting — Availability"
+  },
+  {
+    "title": "OKR: Supply Chain — Usability"
+  },
+  {
+    "title": "Invoice Reconciliation: Chatbot — Migration"
+  },
+  {
+    "title": "Incident: Caching — Security"
+  },
+  {
+    "title": "Compliance Update: Orders — Pilot"
+  },
+  {
+    "title": "Architecture Decision Record: Supply Chain — v2.0"
+  },
+  {
+    "title": "Compliance Update: Loyalty Program — Migration"
+  },
+  {
+    "title": "Security Advisory: CI/CD — Migration"
+  },
+  {
+    "title": "Quarterly Review: Performance — Refactor"
+  },
+  {
+    "title": "Epic: Payments — Rollback Plan"
+  },
+  {
+    "title": "Dashboard: Orders — Q1 2026"
+  },
+  {
+    "title": "Knowledge Base: Notifications — Hotfix"
+  },
+  {
+    "title": "OKR: Reporting — GA"
+  },
+  {
+    "title": "Compliance Update: Loyalty Program — Availability"
+  },
+  {
+    "title": "Service Catalogue: Loyalty Program — MVP"
+  },
+  {
+    "title": "Marketing Campaign: Payments — Scalability"
+  },
+  {
+    "title": "Data Quality Issue: Mobile App — Pilot"
+  },
+  {
+    "title": "Procurement Request: Fraud Detection — Rollback Plan"
+  },
+  {
+    "title": "Marketing Campaign: CI/CD — Pilot"
+  },
+  {
+    "title": "Service Catalogue: Chatbot — Resilience"
+  },
+  {
+    "title": "Service Catalogue: Chatbot — Migration"
+  },
+  {
+    "title": "OKR: Payments — v2.0"
+  },
+  {
+    "title": "Sprint Goal: Search — Refactor"
+  },
+  {
+    "title": "Service Catalogue: Search — Beta"
+  },
+  {
+    "title": "FAQ: Single Sign-On — Hotfix"
+  },
+  {
+    "title": "Knowledge Base: File Storage — Scalability"
+  },
+  {
+    "title": "User Story: Fraud Detection — Usability"
+  },
+  {
+    "title": "Epic: Customer 360 — Migration"
+  },
+  {
+    "title": "Compliance Update: Inventory — MVP"
+  },
+  {
+    "title": "Security Advisory: Web Portal — Q2 2026"
+  },
+  {
+    "title": "Epic: Web Portal — Usability"
+  },
+  {
+    "title": "Invoice Reconciliation: Backup & Restore — Q1 2026"
+  },
+  {
+    "title": "Data Quality Issue: Notifications — Rollback Plan"
+  },
+  {
+    "title": "Compliance Update: DevOps Pipeline — Security"
+  },
+  {
+    "title": "Invoice Reconciliation: Email Service — Availability"
+  },
+  {
+    "title": "Sprint Goal: Web Portal — Q2 2026"
+  },
+  {
+    "title": "Sprint Goal: Search — Hotfix"
+  },
+  {
+    "title": "API Specification: Inventory — v1.0"
+  },
+  {
+    "title": "Service Catalogue: File Storage — Phase 2"
+  },
+  {
+    "title": "Compliance Update: Authentication — v1.1"
+  },
+  {
+    "title": "Marketing Campaign: Inventory — Phase 2"
+  },
+  {
+    "title": "Product Announcement: Product Catalog — Rollback Plan"
+  },
+  {
+    "title": "Customer Feedback: Product Catalog — v1.0"
+  },
+  {
+    "title": "Quarterly Review: Inventory — Rollback Plan"
+  },
+  {
+    "title": "Knowledge Base: Geo-Location — GA"
+  },
+  {
+    "title": "Dashboard: Chatbot — Phase 1"
+  },
+  {
+    "title": "Architecture Decision Record: Mobile App — Refactor"
+  },
+  {
+    "title": "Knowledge Base: Mobile App — Security"
+  },
+  {
+    "title": "Product Announcement: Localization — v1.1"
+  },
+  {
+    "title": "Onboarding Guide: Data Lake — Security"
+  },
+  {
+    "title": "Sprint Goal: Mobile App — Pilot"
+  },
+  {
+    "title": "Customer Feedback: File Storage — Optimization"
+  },
+  {
+    "title": "Roadmap Item: Performance — Availability"
+  },
+  {
+    "title": "Security Advisory: CI/CD — Scalability"
+  },
+  {
+    "title": "Test Case: Geo-Location — Migration"
+  },
+  {
+    "title": "Sprint Goal: Product Catalog — Security"
+  },
+  {
+    "title": "Incident: Inventory — Security"
+  },
+  {
+    "title": "Roadmap Item: Authentication — Availability"
+  },
+  {
+    "title": "Procurement Request: Web Portal — Q2 2026"
+  },
+  {
+    "title": "Product Announcement: Notifications — MVP"
+  },
+  {
+    "title": "FAQ: Mobile App — Q1 2026"
+  },
+  {
+    "title": "Security Advisory: Analytics — Usability"
+  },
+  {
+    "title": "Bug Report: Analytics — v1.0"
+  },
+  {
+    "title": "Incident: Geo-Location — Availability"
+  },
+  {
+    "title": "Knowledge Base: Inventory — v1.1"
+  },
+  {
+    "title": "Security Advisory: Inventory — Beta"
+  },
+  {
+    "title": "Service Catalogue: Product Catalog — Migration"
+  },
+  {
+    "title": "Bug Report: Localization — Pilot"
+  },
+  {
+    "title": "Integration Checklist: Reporting — Resilience"
+  },
+  {
+    "title": "Quarterly Review: Localization — Q2 2026"
+  },
+  {
+    "title": "Incident: Web Portal — Usability"
+  },
+  {
+    "title": "Security Advisory: Accessibility — Phase 2"
+  },
+  {
+    "title": "Integration Checklist: Reporting — Phase 2"
+  },
+  {
+    "title": "Bug Report: Authentication — Q1 2026"
+  },
+  {
+    "title": "OKR: Inventory — Availability"
+  },
+  {
+    "title": "Procurement Request: Caching — Security"
+  },
+  {
+    "title": "Integration Checklist: Inventory — Migration"
+  },
+  {
+    "title": "Customer Feedback: Geo-Location — Beta"
+  },
+  {
+    "title": "Service Catalogue: Billing — MVP"
+  },
+  {
+    "title": "Training Module: File Storage — Rollback Plan"
+  },
+  {
+    "title": "Change Request: Mobile App — Availability"
+  },
+  {
+    "title": "Feature Request: Loyalty Program — Optimization"
+  },
+  {
+    "title": "Procurement Request: Orders — Availability"
+  },
+  {
+    "title": "Compliance Update: Payments — v2.0"
+  },
+  {
+    "title": "Security Advisory: Localization — Security"
+  },
+  {
+    "title": "Quarterly Review: Payments — MVP"
+  },
+  {
+    "title": "Quarterly Review: Authentication — Q1 2026"
+  },
+  {
+    "title": "Knowledge Base: Email Service — Resilience"
+  },
+  {
+    "title": "Change Request: Supply Chain — MVP"
+  },
+  {
+    "title": "API Specification: Single Sign-On — Optimization"
+  },
+  {
+    "title": "Product Announcement: Caching — Rollback Plan"
+  },
+  {
+    "title": "Bug Report: Chatbot — Hotfix"
+  },
+  {
+    "title": "Incident: Orders — GA"
+  },
+  {
+    "title": "FAQ: Web Portal — Q1 2026"
+  },
+  {
+    "title": "Epic: Fraud Detection — Rollback Plan"
+  },
+  {
+    "title": "Sprint Goal: Localization — Refactor"
+  },
+  {
+    "title": "Architecture Decision Record: CI/CD — Usability"
+  },
+  {
+    "title": "Feature Request: Geo-Location — v2.0"
+  },
+  {
+    "title": "Epic: Reporting — GA"
+  },
+  {
+    "title": "Customer Feedback: CI/CD — Refactor"
+  },
+  {
+    "title": "Dashboard: Email Service — v1.0"
+  },
+  {
+    "title": "FAQ: Product Catalog — Usability"
+  },
+  {
+    "title": "Change Request: Fraud Detection — v1.1"
+  },
+  {
+    "title": "Data Quality Issue: Email Service — Hotfix"
+  },
+  {
+    "title": "Roadmap Item: CI/CD — Rollback Plan"
+  },
+  {
+    "title": "Product Announcement: Geo-Location — v1.1"
+  },
+  {
+    "title": "Data Quality Issue: Reporting — Usability"
+  },
+  {
+    "title": "Onboarding Guide: Supply Chain — Beta"
+  },
+  {
+    "title": "Change Request: Loyalty Program — Rollback Plan"
+  },
+  {
+    "title": "Customer Feedback: Payments — Resilience"
+  },
+  {
+    "title": "Roadmap Item: Monitoring — Pilot"
+  },
+  {
+    "title": "Service Catalogue: Analytics — Beta"
+  },
+  {
+    "title": "Marketing Campaign: Payments — Usability"
+  },
+  {
+    "title": "Incident: Mobile App — Pilot"
+  },
+  {
+    "title": "Architecture Decision Record: Supply Chain — Phase 1"
+  },
+  {
+    "title": "Change Request: Web Portal — Resilience"
+  },
+  {
+    "title": "Architecture Decision Record: Data Lake — Rollback Plan"
+  },
+  {
+    "title": "Integration Checklist: Backup & Restore — Beta"
+  },
+  {
+    "title": "Training Module: Backup & Restore — MVP"
+  },
+  {
+    "title": "Incident: Caching — Rollback Plan"
+  },
+  {
+    "title": "Knowledge Base: Search — Migration"
+  },
+  {
+    "title": "Marketing Campaign: Data Lake — Refactor"
+  },
+  {
+    "title": "Data Quality Issue: Supply Chain — Availability"
+  },
+  {
+    "title": "Training Module: DevOps Pipeline — Phase 2"
+  },
+  {
+    "title": "Invoice Reconciliation: Monitoring — Optimization"
+  },
+  {
+    "title": "Epic: Supply Chain — Scalability"
+  },
+  {
+    "title": "Compliance Update: Caching — v1.0"
+  },
+  {
+    "title": "Sprint Goal: DevOps Pipeline — Beta"
+  },
+  {
+    "title": "Architecture Decision Record: Single Sign-On — Security"
+  },
+  {
+    "title": "FAQ: Chatbot — Phase 2"
+  },
+  {
+    "title": "Change Request: File Storage — Rollback Plan"
+  },
+  {
+    "title": "User Story: Orders — Usability"
+  },
+  {
+    "title": "Invoice Reconciliation: File Storage — Refactor"
+  },
+  {
+    "title": "Change Request: Supply Chain — GA"
+  },
+  {
+    "title": "Dashboard: Notifications — Pilot"
+  },
+  {
+    "title": "Quarterly Review: Billing — Pilot"
+  },
+  {
+    "title": "Dashboard: CI/CD — Optimization"
+  },
+  {
+    "title": "Feature Request: Orders — Rollback Plan"
+  },
+  {
+    "title": "Service Catalogue: Supply Chain — Refactor"
+  },
+  {
+    "title": "Test Case: Localization — Resilience"
+  },
+  {
+    "title": "Onboarding Guide: Chatbot — v1.1"
+  },
+  {
+    "title": "Onboarding Guide: Email Service — Security"
+  },
+  {
+    "title": "Epic: Product Catalog — Phase 1"
+  },
+  {
+    "title": "Dashboard: Product Catalog — Migration"
+  },
+  {
+    "title": "Customer Feedback: Email Service — Migration"
+  },
+  {
+    "title": "Release Notes: DevOps Pipeline — Phase 2"
+  },
+  {
+    "title": "Incident: Product Catalog — Resilience"
+  },
+  {
+    "title": "Onboarding Guide: Mobile App — Rollback Plan"
+  },
+  {
+    "title": "Roadmap Item: Backup & Restore — Refactor"
+  },
+  {
+    "title": "Product Announcement: Mobile App — GA"
+  },
+  {
+    "title": "Dashboard: Localization — Usability"
+  },
+  {
+    "title": "Test Case: Orders — Resilience"
+  },
+  {
+    "title": "Service Catalogue: Loyalty Program — Rollback Plan"
+  },
+  {
+    "title": "Dashboard: File Storage — v1.1"
+  },
+  {
+    "title": "Roadmap Item: Mobile App — Pilot"
+  },
+  {
+    "title": "Product Announcement: Localization — Beta"
+  },
+  {
+    "title": "Security Advisory: DevOps Pipeline — v2.0"
+  },
+  {
+    "title": "Incident: Web Portal — Resilience"
+  },
+  {
+    "title": "Service Catalogue: Product Catalog — Phase 1"
+  },
+  {
+    "title": "Change Request: Analytics — Beta"
+  },
+  {
+    "title": "Data Migration Task: Payments — v1.1"
+  },
+  {
+    "title": "Epic: Monitoring — v1.1"
+  },
+  {
+    "title": "Sprint Goal: Customer 360 — Hotfix"
+  },
+  {
+    "title": "Incident: Data Lake — Pilot"
+  },
+  {
+    "title": "Training Module: Fraud Detection — Security"
+  },
+  {
+    "title": "FAQ: Monitoring — Q1 2026"
+  },
+  {
+    "title": "API Specification: Analytics — v2.0"
+  },
+  {
+    "title": "Roadmap Item: Product Catalog — Refactor"
+  },
+  {
+    "title": "Roadmap Item: Localization — Pilot"
+  },
+  {
+    "title": "Knowledge Base: Supply Chain — Security"
+  },
+  {
+    "title": "Onboarding Guide: Search — Migration"
+  },
+  {
+    "title": "Product Announcement: Reporting — Migration"
+  },
+  {
+    "title": "Compliance Update: Localization — v1.0"
+  },
+  {
+    "title": "Data Migration Task: Monitoring — Migration"
+  },
+  {
+    "title": "Data Migration Task: Inventory — Usability"
+  },
+  {
+    "title": "API Specification: Mobile App — Migration"
+  },
+  {
+    "title": "User Story: Single Sign-On — Beta"
+  },
+  {
+    "title": "Product Announcement: Fraud Detection — MVP"
+  },
+  {
+    "title": "Change Request: Product Catalog — Beta"
+  },
+  {
+    "title": "Data Quality Issue: Billing — Rollback Plan"
+  },
+  {
+    "title": "Customer Feedback: Search — Refactor"
+  },
+  {
+    "title": "Quarterly Review: Customer 360 — Security"
+  },
+  {
+    "title": "Sprint Goal: Backup & Restore — Beta"
+  },
+  {
+    "title": "Release Notes: Caching — Refactor"
+  },
+  {
+    "title": "Compliance Update: Payments — Security"
+  },
+  {
+    "title": "Dashboard: Localization — v1.1"
+  },
+  {
+    "title": "Integration Checklist: Performance — Rollback Plan"
+  },
+  {
+    "title": "Architecture Decision Record: Loyalty Program — Beta"
+  },
+  {
+    "title": "Invoice Reconciliation: Monitoring — Pilot"
+  },
+  {
+    "title": "Roadmap Item: Monitoring — Hotfix"
+  },
+  {
+    "title": "Security Advisory: Accessibility — Q2 2026"
+  },
+  {
+    "title": "Roadmap Item: Reporting — Phase 2"
+  },
+  {
+    "title": "Product Announcement: Web Portal — Resilience"
+  },
+  {
+    "title": "Product Announcement: Authentication — Beta"
+  },
+  {
+    "title": "OKR: Geo-Location — v1.1"
+  },
+  {
+    "title": "Quarterly Review: Customer 360 — Phase 2"
+  },
+  {
+    "title": "Bug Report: Supply Chain — Beta"
+  },
+  {
+    "title": "Epic: DevOps Pipeline — Optimization"
+  },
+  {
+    "title": "API Specification: Notifications — Phase 2"
+  },
+  {
+    "title": "OKR: File Storage — Hotfix"
+  },
+  {
+    "title": "Training Module: Email Service — MVP"
+  },
+  {
+    "title": "Architecture Decision Record: Analytics — MVP"
+  },
+  {
+    "title": "Integration Checklist: Caching — Rollback Plan"
+  },
+  {
+    "title": "OKR: Inventory — GA"
+  },
+  {
+    "title": "OKR: Web Portal — Migration"
+  },
+  {
+    "title": "Bug Report: Data Lake — Pilot"
+  },
+  {
+    "title": "Dashboard: Localization — Refactor"
+  },
+  {
+    "title": "Dashboard: Monitoring — Usability"
+  },
+  {
+    "title": "User Story: Mobile App — Refactor"
+  },
+  {
+    "title": "Release Notes: Reporting — Usability"
+  },
+  {
+    "title": "Customer Feedback: Geo-Location — Hotfix"
+  },
+  {
+    "title": "FAQ: DevOps Pipeline — MVP"
+  },
+  {
+    "title": "Quarterly Review: Billing — Resilience"
+  },
+  {
+    "title": "User Story: Web Portal — Pilot"
+  },
+  {
+    "title": "Knowledge Base: Payments — Availability"
+  },
+  {
+    "title": "Data Migration Task: File Storage — GA"
+  },
+  {
+    "title": "Integration Checklist: Performance — Pilot"
+  },
+  {
+    "title": "Architecture Decision Record: Geo-Location — Beta"
+  },
+  {
+    "title": "Product Announcement: Fraud Detection — Phase 1"
+  },
+  {
+    "title": "Onboarding Guide: Authentication — v1.1"
+  },
+  {
+    "title": "Sprint Goal: Chatbot — Phase 1"
+  },
+  {
+    "title": "Customer Feedback: Search — Usability"
+  },
+  {
+    "title": "Onboarding Guide: Billing — Migration"
+  },
+  {
+    "title": "User Story: Localization — Usability"
+  },
+  {
+    "title": "Incident: Single Sign-On — Phase 2"
+  },
+  {
+    "title": "Data Migration Task: Fraud Detection — Resilience"
+  },
+  {
+    "title": "Customer Feedback: Caching — Rollback Plan"
+  },
+  {
+    "title": "Roadmap Item: Fraud Detection — MVP"
+  },
+  {
+    "title": "Feature Request: Backup & Restore — Hotfix"
+  },
+  {
+    "title": "Data Quality Issue: Geo-Location — Migration"
+  },
+  {
+    "title": "Security Advisory: Product Catalog — Hotfix"
+  },
+  {
+    "title": "Customer Feedback: Localization — Hotfix"
+  },
+  {
+    "title": "Marketing Campaign: Loyalty Program — Resilience"
+  },
+  {
+    "title": "User Story: Authentication — Refactor"
+  },
+  {
+    "title": "Compliance Update: Notifications — Phase 1"
+  },
+  {
+    "title": "Dashboard: Caching — Migration"
+  },
+  {
+    "title": "Bug Report: Localization — Q2 2026"
+  },
+  {
+    "title": "Product Announcement: Accessibility — Availability"
+  },
+  {
+    "title": "Release Notes: Authentication — GA"
+  },
+  {
+    "title": "Security Advisory: Data Lake — Security"
+  },
+  {
+    "title": "Data Quality Issue: Mobile App — Usability"
+  },
+  {
+    "title": "Data Quality Issue: Single Sign-On — Q2 2026"
+  },
+  {
+    "title": "Architecture Decision Record: Product Catalog — Pilot"
+  },
+  {
+    "title": "Epic: CI/CD — Phase 2"
+  },
+  {
+    "title": "OKR: Loyalty Program — Availability"
+  },
+  {
+    "title": "Release Notes: Reporting — Phase 2"
+  },
+  {
+    "title": "Onboarding Guide: File Storage — MVP"
+  },
+  {
+    "title": "OKR: Analytics — Phase 1"
+  },
+  {
+    "title": "FAQ: Product Catalog — v1.0"
+  },
+  {
+    "title": "Onboarding Guide: Payments — Hotfix"
+  },
+  {
+    "title": "OKR: Monitoring — Pilot"
+  },
+  {
+    "title": "Quarterly Review: Orders — v1.0"
+  },
+  {
+    "title": "API Specification: Reporting — v1.1"
+  },
+  {
+    "title": "Onboarding Guide: DevOps Pipeline — Optimization"
+  },
+  {
+    "title": "Training Module: Web Portal — v2.0"
+  },
+  {
+    "title": "Knowledge Base: Geo-Location — Hotfix"
+  },
+  {
+    "title": "Training Module: Single Sign-On — Phase 1"
+  },
+  {
+    "title": "Change Request: Email Service — Pilot"
+  },
+  {
+    "title": "Roadmap Item: Authentication — Scalability"
+  },
+  {
+    "title": "Sprint Goal: Geo-Location — Resilience"
+  },
+  {
+    "title": "Release Notes: Authentication — Rollback Plan"
+  },
+  {
+    "title": "Dashboard: Billing — Optimization"
+  },
+  {
+    "title": "FAQ: Web Portal — Rollback Plan"
+  },
+  {
+    "title": "Service Catalogue: Supply Chain — Migration"
+  },
+  {
+    "title": "Bug Report: Loyalty Program — v2.0"
+  },
+  {
+    "title": "Epic: Performance — Phase 2"
+  },
+  {
+    "title": "Bug Report: Data Lake — MVP"
+  },
+  {
+    "title": "Roadmap Item: Accessibility — Security"
+  },
+  {
+    "title": "Marketing Campaign: Backup & Restore — GA"
+  },
+  {
+    "title": "Test Case: Performance — Scalability"
+  },
+  {
+    "title": "Sprint Goal: Geo-Location — Scalability"
+  },
+  {
+    "title": "Roadmap Item: Fraud Detection — Phase 1"
+  },
+  {
+    "title": "OKR: Backup & Restore — Phase 1"
+  },
+  {
+    "title": "Dashboard: Accessibility — Resilience"
+  },
+  {
+    "title": "Data Migration Task: CI/CD — Usability"
+  },
+  {
+    "title": "Procurement Request: Product Catalog — Q2 2026"
+  },
+  {
+    "title": "Incident: Geo-Location — Pilot"
+  },
+  {
+    "title": "Incident: Orders — Migration"
+  },
+  {
+    "title": "Test Case: Fraud Detection — Phase 1"
+  },
+  {
+    "title": "Epic: Fraud Detection — GA"
+  },
+  {
+    "title": "FAQ: Reporting — Hotfix"
+  },
+  {
+    "title": "Onboarding Guide: Localization — Rollback Plan"
+  },
+  {
+    "title": "Bug Report: Mobile App — v2.0"
+  },
+  {
+    "title": "Bug Report: Fraud Detection — Phase 1"
+  },
+  {
+    "title": "Procurement Request: DevOps Pipeline — Hotfix"
+  },
+  {
+    "title": "OKR: Data Lake — Usability"
+  },
+  {
+    "title": "Feature Request: Single Sign-On — Usability"
+  },
+  {
+    "title": "Marketing Campaign: Orders — Phase 1"
+  },
+  {
+    "title": "Incident: Customer 360 — Optimization"
+  },
+  {
+    "title": "Dashboard: Supply Chain — v1.1"
+  },
+  {
+    "title": "Sprint Goal: Performance — Beta"
+  },
+  {
+    "title": "User Story: Web Portal — Security"
+  },
+  {
+    "title": "Training Module: Notifications — Phase 2"
+  },
+  {
+    "title": "FAQ: Chatbot — Pilot"
+  },
+  {
+    "title": "Dashboard: Web Portal — Hotfix"
+  },
+  {
+    "title": "Dashboard: File Storage — Hotfix"
+  },
+  {
+    "title": "Customer Feedback: CI/CD — MVP"
+  },
+  {
+    "title": "Quarterly Review: Search — Optimization"
+  },
+  {
+    "title": "Dashboard: File Storage — Availability"
+  },
+  {
+    "title": "Roadmap Item: Localization — Resilience"
+  },
+  {
+    "title": "Marketing Campaign: Payments — Availability"
+  },
+  {
+    "title": "Integration Checklist: Localization — MVP"
+  },
+  {
+    "title": "Release Notes: Analytics — MVP"
+  },
+  {
+    "title": "Service Catalogue: CI/CD — Beta"
+  },
+  {
+    "title": "Integration Checklist: Orders — Hotfix"
+  },
+  {
+    "title": "Release Notes: Analytics — Phase 2"
+  },
+  {
+    "title": "Bug Report: Data Lake — Resilience"
+  },
+  {
+    "title": "Release Notes: Mobile App — Scalability"
+  },
+  {
+    "title": "Data Quality Issue: Billing — Optimization"
+  },
+  {
+    "title": "Change Request: Orders — Q1 2026"
+  },
+  {
+    "title": "User Story: Inventory — GA"
+  },
+  {
+    "title": "Invoice Reconciliation: Single Sign-On — Availability"
+  },
+  {
+    "title": "Bug Report: Loyalty Program — v1.1"
+  },
+  {
+    "title": "Onboarding Guide: Analytics — Availability"
+  },
+  {
+    "title": "Feature Request: Localization — v2.0"
+  },
+  {
+    "title": "Compliance Update: Geo-Location — Optimization"
+  },
+  {
+    "title": "Knowledge Base: Performance — Migration"
+  },
+  {
+    "title": "Incident: Reporting — Q2 2026"
+  },
+  {
+    "title": "Invoice Reconciliation: Email Service — Phase 1"
+  },
+  {
+    "title": "User Story: Fraud Detection — Phase 1"
+  },
+  {
+    "title": "Sprint Goal: Localization — Security"
+  },
+  {
+    "title": "Knowledge Base: Email Service — Beta"
+  },
+  {
+    "title": "Feature Request: Search — Refactor"
+  },
+  {
+    "title": "Roadmap Item: Authentication — v1.0"
+  },
+  {
+    "title": "Data Quality Issue: Inventory — Q2 2026"
+  },
+  {
+    "title": "Invoice Reconciliation: Data Lake — MVP"
+  },
+  {
+    "title": "Sprint Goal: Orders — Phase 1"
+  },
+  {
+    "title": "Release Notes: Chatbot — Optimization"
+  },
+  {
+    "title": "API Specification: Data Lake — Refactor"
+  },
+  {
+    "title": "Marketing Campaign: Backup & Restore — Pilot"
+  },
+  {
+    "title": "Training Module: File Storage — Hotfix"
+  },
+  {
+    "title": "Bug Report: Billing — v1.1"
+  },
+  {
+    "title": "Incident: Payments — Migration"
+  },
+  {
+    "title": "Integration Checklist: Mobile App — GA"
+  },
+  {
+    "title": "Quarterly Review: Fraud Detection — Security"
+  },
+  {
+    "title": "Test Case: Backup & Restore — Resilience"
+  },
+  {
+    "title": "Incident: Inventory — Phase 1"
+  },
+  {
+    "title": "Test Case: Payments — GA"
+  },
+  {
+    "title": "API Specification: Monitoring — Availability"
+  },
+  {
+    "title": "Change Request: Caching — Hotfix"
+  },
+  {
+    "title": "Security Advisory: Fraud Detection — Security"
+  },
+  {
+    "title": "Test Case: Email Service — v2.0"
+  },
+  {
+    "title": "Test Case: Product Catalog — Beta"
+  },
+  {
+    "title": "Procurement Request: Orders — Pilot"
+  },
+  {
+    "title": "Epic: CI/CD — Q1 2026"
+  },
+  {
+    "title": "Customer Feedback: Email Service — Scalability"
+  },
+  {
+    "title": "Data Quality Issue: Loyalty Program — Hotfix"
+  },
+  {
+    "title": "User Story: DevOps Pipeline — Resilience"
+  },
+  {
+    "title": "Architecture Decision Record: Data Lake — Pilot"
+  },
+  {
+    "title": "Customer Feedback: Data Lake — MVP"
+  },
+  {
+    "title": "Data Quality Issue: Analytics — Availability"
+  },
+  {
+    "title": "Onboarding Guide: CI/CD — Resilience"
+  },
+  {
+    "title": "Bug Report: Analytics — Resilience"
+  },
+  {
+    "title": "Knowledge Base: Geo-Location — Security"
+  },
+  {
+    "title": "Invoice Reconciliation: Single Sign-On — Migration"
+  },
+  {
+    "title": "FAQ: Supply Chain — Security"
+  },
+  {
+    "title": "Epic: Product Catalog — Resilience"
+  },
+  {
+    "title": "Epic: Data Lake — Migration"
+  },
+  {
+    "title": "Bug Report: Chatbot — Migration"
+  },
+  {
+    "title": "Product Announcement: Inventory — MVP"
+  },
+  {
+    "title": "Quarterly Review: Authentication — Hotfix"
+  },
+  {
+    "title": "Training Module: Mobile App — Beta"
+  },
+  {
+    "title": "Change Request: Geo-Location — v1.1"
+  },
+  {
+    "title": "Feature Request: Customer 360 — Beta"
+  },
+  {
+    "title": "Bug Report: Accessibility — v2.0"
+  },
+  {
+    "title": "Roadmap Item: Performance — Scalability"
+  },
+  {
+    "title": "Test Case: Geo-Location — Security"
+  },
+  {
+    "title": "Marketing Campaign: Monitoring — v1.1"
+  },
+  {
+    "title": "Change Request: Supply Chain — Security"
+  },
+  {
+    "title": "Product Announcement: Notifications — GA"
+  },
+  {
+    "title": "Roadmap Item: Chatbot — Scalability"
+  },
+  {
+    "title": "Onboarding Guide: Authentication — Migration"
+  },
+  {
+    "title": "Customer Feedback: Monitoring — GA"
+  },
+  {
+    "title": "Service Catalogue: Mobile App — Scalability"
+  },
+  {
+    "title": "Product Announcement: Analytics — v1.1"
+  },
+  {
+    "title": "Security Advisory: Backup & Restore — Migration"
+  },
+  {
+    "title": "Change Request: Email Service — Scalability"
+  },
+  {
+    "title": "Roadmap Item: Analytics — Hotfix"
+  },
+  {
+    "title": "User Story: Supply Chain — Beta"
+  },
+  {
+    "title": "Test Case: Fraud Detection — GA"
+  },
+  {
+    "title": "FAQ: Performance — v1.1"
+  },
+  {
+    "title": "OKR: Accessibility — Resilience"
+  },
+  {
+    "title": "Epic: Mobile App — GA"
+  },
+  {
+    "title": "Customer Feedback: File Storage — Refactor"
+  },
+  {
+    "title": "Sprint Goal: Reporting — Availability"
+  },
+  {
+    "title": "Dashboard: Data Lake — GA"
+  },
+  {
+    "title": "Bug Report: Single Sign-On — Phase 2"
+  },
+  {
+    "title": "Integration Checklist: Customer 360 — Beta"
+  },
+  {
+    "title": "Product Announcement: Backup & Restore — Refactor"
+  },
+  {
+    "title": "Onboarding Guide: Performance — v2.0"
+  },
+  {
+    "title": "Sprint Goal: File Storage — Refactor"
+  },
+  {
+    "title": "Product Announcement: Monitoring — GA"
+  },
+  {
+    "title": "Architecture Decision Record: Data Lake — Scalability"
+  },
+  {
+    "title": "Training Module: Customer 360 — v1.0"
+  },
+  {
+    "title": "Data Quality Issue: Orders — Rollback Plan"
+  },
+  {
+    "title": "Data Quality Issue: Search — Phase 2"
+  },
+  {
+    "title": "Onboarding Guide: Mobile App — Beta"
+  },
+  {
+    "title": "Dashboard: Monitoring — Phase 1"
+  },
+  {
+    "title": "Training Module: CI/CD — Usability"
+  },
+  {
+    "title": "Architecture Decision Record: DevOps Pipeline — Scalability"
+  },
+  {
+    "title": "Feature Request: Localization — GA"
+  },
+  {
+    "title": "Data Migration Task: CI/CD — Availability"
+  },
+  {
+    "title": "Onboarding Guide: Performance — Refactor"
+  },
+  {
+    "title": "Onboarding Guide: Analytics — Q1 2026"
+  },
+  {
+    "title": "Architecture Decision Record: Backup & Restore — Availability"
+  },
+  {
+    "title": "OKR: Loyalty Program — Q1 2026"
+  },
+  {
+    "title": "Procurement Request: Geo-Location — v1.1"
+  },
+  {
+    "title": "Incident: Customer 360 — Pilot"
+  },
+  {
+    "title": "Change Request: Performance — Beta"
+  },
+  {
+    "title": "Invoice Reconciliation: DevOps Pipeline — Migration"
+  },
+  {
+    "title": "Security Advisory: File Storage — Pilot"
+  },
+  {
+    "title": "Sprint Goal: Monitoring — Rollback Plan"
+  },
+  {
+    "title": "Data Migration Task: Caching — Q2 2026"
+  },
+  {
+    "title": "User Story: Localization — Security"
+  },
+  {
+    "title": "Change Request: Geo-Location — Beta"
+  },
+  {
+    "title": "Invoice Reconciliation: Billing — Scalability"
+  },
+  {
+    "title": "Training Module: Fraud Detection — Q1 2026"
+  },
+  {
+    "title": "Architecture Decision Record: Notifications — Availability"
+  },
+  {
+    "title": "Onboarding Guide: Product Catalog — MVP"
+  },
+  {
+    "title": "Feature Request: Accessibility — Rollback Plan"
+  },
+  {
+    "title": "Dashboard: Customer 360 — Usability"
+  },
+  {
+    "title": "Integration Checklist: Web Portal — Scalability"
+  },
+  {
+    "title": "Dashboard: Web Portal — Beta"
+  },
+  {
+    "title": "Bug Report: CI/CD — Q1 2026"
+  },
+  {
+    "title": "Compliance Update: Geo-Location — Scalability"
+  },
+  {
+    "title": "Onboarding Guide: Caching — Optimization"
+  },
+  {
+    "title": "Architecture Decision Record: Geo-Location — Hotfix"
+  },
+  {
+    "title": "Integration Checklist: Payments — Optimization"
+  },
+  {
+    "title": "Feature Request: Billing — Scalability"
+  },
+  {
+    "title": "User Story: Search — Refactor"
+  },
+  {
+    "title": "Bug Report: Customer 360 — Pilot"
+  },
+  {
+    "title": "Release Notes: Orders — Phase 1"
+  },
+  {
+    "title": "Architecture Decision Record: Backup & Restore — Resilience"
+  },
+  {
+    "title": "Epic: Monitoring — Phase 2"
+  },
+  {
+    "title": "Onboarding Guide: Authentication — Beta"
+  },
+  {
+    "title": "Service Catalogue: Caching — Phase 2"
+  },
+  {
+    "title": "Invoice Reconciliation: Backup & Restore — Rollback Plan"
+  },
+  {
+    "title": "Change Request: Performance — v1.0"
+  },
+  {
+    "title": "Data Migration Task: Mobile App — v1.0"
+  },
+  {
+    "title": "Compliance Update: Notifications — Phase 2"
+  },
+  {
+    "title": "Marketing Campaign: DevOps Pipeline — Availability"
+  },
+  {
+    "title": "Training Module: Fraud Detection — Phase 1"
+  },
+  {
+    "title": "Invoice Reconciliation: Inventory — Pilot"
+  },
+  {
+    "title": "Sprint Goal: Web Portal — v1.1"
+  },
+  {
+    "title": "Security Advisory: Fraud Detection — Resilience"
+  },
+  {
+    "title": "OKR: Performance — Migration"
+  },
+  {
+    "title": "Bug Report: Web Portal — Rollback Plan"
+  },
+  {
+    "title": "Roadmap Item: File Storage — v1.0"
+  },
+  {
+    "title": "Product Announcement: Email Service — Security"
+  },
+  {
+    "title": "Security Advisory: Backup & Restore — Phase 2"
+  },
+  {
+    "title": "Sprint Goal: Fraud Detection — v1.0"
+  },
+  {
+    "title": "Roadmap Item: Customer 360 — Pilot"
+  },
+  {
+    "title": "Quarterly Review: Fraud Detection — Q1 2026"
+  },
+  {
+    "title": "FAQ: Localization — v2.0"
+  },
+  {
+    "title": "Training Module: Customer 360 — v2.0"
+  },
+  {
+    "title": "Training Module: File Storage — Scalability"
+  },
+  {
+    "title": "OKR: Email Service — Usability"
+  },
+  {
+    "title": "Release Notes: Billing — Rollback Plan"
+  },
+  {
+    "title": "Feature Request: Accessibility — Refactor"
+  },
+  {
+    "title": "User Story: Reporting — v1.0"
+  },
+  {
+    "title": "User Story: Monitoring — v2.0"
+  },
+  {
+    "title": "User Story: Search — Resilience"
+  },
+  {
+    "title": "Customer Feedback: CI/CD — Security"
+  },
+  {
+    "title": "Procurement Request: CI/CD — GA"
+  },
+  {
+    "title": "Onboarding Guide: Authentication — Hotfix"
+  },
+  {
+    "title": "Marketing Campaign: Orders — Resilience"
+  },
+  {
+    "title": "API Specification: Caching — Migration"
+  },
+  {
+    "title": "API Specification: Monitoring — Phase 2"
+  },
+  {
+    "title": "Bug Report: Backup & Restore — Migration"
+  },
+  {
+    "title": "Feature Request: Inventory — Q2 2026"
+  },
+  {
+    "title": "Feature Request: Monitoring — Q2 2026"
+  },
+  {
+    "title": "Integration Checklist: Inventory — Scalability"
+  },
+  {
+    "title": "Test Case: Caching — Usability"
+  },
+  {
+    "title": "Invoice Reconciliation: Accessibility — Q2 2026"
+  },
+  {
+    "title": "Dashboard: Accessibility — GA"
+  },
+  {
+    "title": "Compliance Update: Web Portal — Hotfix"
+  },
+  {
+    "title": "Incident: Loyalty Program — Refactor"
+  },
+  {
+    "title": "Procurement Request: Geo-Location — Refactor"
+  },
+  {
+    "title": "Epic: Analytics — Rollback Plan"
+  },
+  {
+    "title": "Service Catalogue: Chatbot — Hotfix"
+  },
+  {
+    "title": "Integration Checklist: Monitoring — Scalability"
+  },
+  {
+    "title": "Compliance Update: Monitoring — v2.0"
+  },
+  {
+    "title": "Procurement Request: Fraud Detection — v2.0"
+  },
+  {
+    "title": "Incident: Performance — Q1 2026"
+  },
+  {
+    "title": "Marketing Campaign: Inventory — GA"
+  },
+  {
+    "title": "Customer Feedback: Mobile App — GA"
+  },
+  {
+    "title": "FAQ: Inventory — Beta"
+  },
+  {
+    "title": "Change Request: Performance — Optimization"
+  },
+  {
+    "title": "API Specification: Backup & Restore — Migration"
+  },
+  {
+    "title": "User Story: Geo-Location — v1.1"
+  },
+  {
+    "title": "Procurement Request: Product Catalog — Hotfix"
+  },
+  {
+    "title": "Product Announcement: Monitoring — v1.1"
+  },
+  {
+    "title": "Bug Report: Localization — Resilience"
+  },
+  {
+    "title": "Test Case: Customer 360 — Scalability"
+  },
+  {
+    "title": "OKR: DevOps Pipeline — Q1 2026"
+  },
+  {
+    "title": "Release Notes: Data Lake — Availability"
+  },
+  {
+    "title": "FAQ: Monitoring — Migration"
+  },
+  {
+    "title": "Feature Request: Data Lake — v2.0"
+  },
+  {
+    "title": "Security Advisory: CI/CD — Resilience"
+  },
+  {
+    "title": "User Story: Customer 360 — Refactor"
+  },
+  {
+    "title": "Quarterly Review: Authentication — Availability"
+  },
+  {
+    "title": "Onboarding Guide: Localization — Migration"
+  },
+  {
+    "title": "User Story: Customer 360 — Migration"
+  },
+  {
+    "title": "Invoice Reconciliation: Mobile App — Security"
+  },
+  {
+    "title": "Onboarding Guide: Email Service — Hotfix"
+  },
+  {
+    "title": "Compliance Update: Search — Phase 1"
+  },
+  {
+    "title": "Release Notes: DevOps Pipeline — Q1 2026"
+  },
+  {
+    "title": "Knowledge Base: Email Service — Refactor"
+  },
+  {
+    "title": "Integration Checklist: File Storage — Phase 1"
+  },
+  {
+    "title": "Compliance Update: CI/CD — MVP"
+  },
+  {
+    "title": "Service Catalogue: Geo-Location — Q2 2026"
+  },
+  {
+    "title": "Roadmap Item: Inventory — Rollback Plan"
+  },
+  {
+    "title": "Data Quality Issue: Web Portal — Phase 2"
+  },
+  {
+    "title": "Dashboard: Mobile App — Migration"
+  },
+  {
+    "title": "API Specification: Loyalty Program — Migration"
+  },
+  {
+    "title": "Bug Report: Monitoring — GA"
+  },
+  {
+    "title": "FAQ: Customer 360 — v2.0"
+  },
+  {
+    "title": "Marketing Campaign: File Storage — Beta"
+  },
+  {
+    "title": "Data Migration Task: Inventory — Q1 2026"
+  },
+  {
+    "title": "Service Catalogue: Backup & Restore — Resilience"
+  },
+  {
+    "title": "API Specification: Monitoring — Hotfix"
+  },
+  {
+    "title": "Training Module: Search — Phase 1"
+  },
+  {
+    "title": "Data Quality Issue: Monitoring — Phase 2"
+  },
+  {
+    "title": "Security Advisory: Monitoring — Rollback Plan"
+  },
+  {
+    "title": "Release Notes: Customer 360 — Usability"
+  },
+  {
+    "title": "Quarterly Review: Customer 360 — Migration"
+  },
+  {
+    "title": "OKR: File Storage — Phase 2"
+  },
+  {
+    "title": "Roadmap Item: Loyalty Program — v2.0"
+  },
+  {
+    "title": "Bug Report: Inventory — Refactor"
+  },
+  {
+    "title": "Service Catalogue: DevOps Pipeline — Rollback Plan"
+  },
+  {
+    "title": "Training Module: Fraud Detection — Optimization"
+  },
+  {
+    "title": "Architecture Decision Record: Single Sign-On — v2.0"
+  },
+  {
+    "title": "Onboarding Guide: Orders — Resilience"
+  },
+  {
+    "title": "Bug Report: Geo-Location — Migration"
+  },
+  {
+    "title": "FAQ: Email Service — Hotfix"
+  },
+  {
+    "title": "Onboarding Guide: Loyalty Program — Usability"
+  },
+  {
+    "title": "Product Announcement: Single Sign-On — Q1 2026"
+  },
+  {
+    "title": "Invoice Reconciliation: Data Lake — Optimization"
+  },
+  {
+    "title": "Training Module: Supply Chain — v1.1"
+  },
+  {
+    "title": "Architecture Decision Record: Web Portal — Scalability"
+  },
+  {
+    "title": "Onboarding Guide: Inventory — Q1 2026"
+  },
+  {
+    "title": "API Specification: Orders — Pilot"
+  },
+  {
+    "title": "User Story: Email Service — Beta"
+  },
+  {
+    "title": "Data Quality Issue: Accessibility — Usability"
+  },
+  {
+    "title": "Compliance Update: Data Lake — Resilience"
+  },
+  {
+    "title": "Sprint Goal: Performance — Usability"
+  },
+  {
+    "title": "API Specification: Single Sign-On — Security"
+  },
+  {
+    "title": "Procurement Request: Loyalty Program — Availability"
+  },
+  {
+    "title": "Epic: Caching — Security"
+  },
+  {
+    "title": "Feature Request: Caching — v1.0"
+  },
+  {
+    "title": "Bug Report: Authentication — Resilience"
+  },
+  {
+    "title": "Invoice Reconciliation: Single Sign-On — MVP"
+  },
+  {
+    "title": "Product Announcement: Notifications — Security"
+  },
+  {
+    "title": "Incident: Performance — Resilience"
+  },
+  {
+    "title": "Release Notes: Chatbot — Resilience"
+  },
+  {
+    "title": "Marketing Campaign: Inventory — Resilience"
+  },
+  {
+    "title": "Sprint Goal: Chatbot — Pilot"
+  },
+  {
+    "title": "OKR: Monitoring — Refactor"
+  },
+  {
+    "title": "Sprint Goal: Geo-Location — v2.0"
+  },
+  {
+    "title": "Service Catalogue: Authentication — Q1 2026"
+  },
+  {
+    "title": "Change Request: Fraud Detection — Rollback Plan"
+  },
+  {
+    "title": "Change Request: Notifications — GA"
+  },
+  {
+    "title": "Roadmap Item: Data Lake — GA"
+  },
+  {
+    "title": "Dashboard: Backup & Restore — GA"
+  },
+  {
+    "title": "Test Case: Data Lake — Hotfix"
+  },
+  {
+    "title": "Training Module: File Storage — Phase 1"
+  },
+  {
+    "title": "Epic: Search — Migration"
+  },
+  {
+    "title": "Customer Feedback: Reporting — Migration"
+  },
+  {
+    "title": "Feature Request: Inventory — Refactor"
+  },
+  {
+    "title": "Security Advisory: Product Catalog — Q1 2026"
+  },
+  {
+    "title": "Architecture Decision Record: Orders — Security"
+  },
+  {
+    "title": "Procurement Request: Orders — Q2 2026"
+  },
+  {
+    "title": "Invoice Reconciliation: Analytics — Rollback Plan"
+  },
+  {
+    "title": "Training Module: Geo-Location — Rollback Plan"
+  },
+  {
+    "title": "Data Migration Task: Inventory — Rollback Plan"
+  },
+  {
+    "title": "Release Notes: Mobile App — Refactor"
+  },
+  {
+    "title": "Training Module: Geo-Location — Pilot"
+  },
+  {
+    "title": "Data Quality Issue: Single Sign-On — Hotfix"
+  },
+  {
+    "title": "Feature Request: Authentication — Beta"
+  },
+  {
+    "title": "Knowledge Base: Performance — Resilience"
+  },
+  {
+    "title": "FAQ: Chatbot — Beta"
+  },
+  {
+    "title": "Marketing Campaign: Payments — Phase 1"
+  },
+  {
+    "title": "Incident: Data Lake — MVP"
+  },
+  {
+    "title": "Procurement Request: Customer 360 — Refactor"
+  },
+  {
+    "title": "Data Quality Issue: Customer 360 — Usability"
+  },
+  {
+    "title": "Sprint Goal: Mobile App — Refactor"
+  },
+  {
+    "title": "Training Module: Geo-Location — Usability"
+  },
+  {
+    "title": "Compliance Update: Caching — Availability"
+  },
+  {
+    "title": "FAQ: Performance — Phase 1"
+  },
+  {
+    "title": "Onboarding Guide: Web Portal — Refactor"
+  },
+  {
+    "title": "User Story: Monitoring — GA"
+  },
+  {
+    "title": "Marketing Campaign: Customer 360 — Phase 2"
+  },
+  {
+    "title": "Data Quality Issue: Performance — Scalability"
+  },
+  {
+    "title": "Test Case: Email Service — v1.1"
+  },
+  {
+    "title": "Feature Request: Authentication — Phase 2"
+  },
+  {
+    "title": "Service Catalogue: Orders — Rollback Plan"
+  },
+  {
+    "title": "Training Module: Geo-Location — Phase 2"
+  },
+  {
+    "title": "Roadmap Item: Loyalty Program — Scalability"
+  },
+  {
+    "title": "Onboarding Guide: Orders — Availability"
+  },
+  {
+    "title": "Epic: Analytics — Refactor"
+  },
+  {
+    "title": "Roadmap Item: DevOps Pipeline — Beta"
+  },
+  {
+    "title": "Quarterly Review: Orders — Scalability"
+  },
+  {
+    "title": "Architecture Decision Record: Email Service — Usability"
+  },
+  {
+    "title": "Knowledge Base: Backup & Restore — Security"
+  },
+  {
+    "title": "Sprint Goal: Chatbot — v1.0"
+  },
+  {
+    "title": "User Story: Orders — Phase 1"
+  },
+  {
+    "title": "Incident: Single Sign-On — Beta"
+  },
+  {
+    "title": "OKR: Loyalty Program — Resilience"
+  },
+  {
+    "title": "Release Notes: Performance — Rollback Plan"
+  },
+  {
+    "title": "Compliance Update: Accessibility — Security"
+  },
+  {
+    "title": "Quarterly Review: Search — v1.1"
+  },
+  {
+    "title": "Quarterly Review: Chatbot — Q1 2026"
+  },
+  {
+    "title": "Training Module: Accessibility — Availability"
+  },
+  {
+    "title": "Invoice Reconciliation: Caching — Refactor"
+  },
+  {
+    "title": "Onboarding Guide: Caching — Pilot"
+  },
+  {
+    "title": "Feature Request: Single Sign-On — Phase 1"
+  },
+  {
+    "title": "Data Quality Issue: Payments — Migration"
+  },
+  {
+    "title": "Epic: Fraud Detection — Phase 2"
+  },
+  {
+    "title": "Incident: Backup & Restore — Q2 2026"
+  },
+  {
+    "title": "Incident: Email Service — Availability"
+  },
+  {
+    "title": "Integration Checklist: Chatbot — v1.1"
+  },
+  {
+    "title": "Service Catalogue: Data Lake — Scalability"
+  },
+  {
+    "title": "Data Quality Issue: File Storage — GA"
+  },
+  {
+    "title": "FAQ: Chatbot — Scalability"
+  },
+  {
+    "title": "Test Case: Orders — Q1 2026"
+  },
+  {
+    "title": "Change Request: Supply Chain — Usability"
+  },
+  {
+    "title": "Epic: File Storage — Hotfix"
+  },
+  {
+    "title": "FAQ: CI/CD — Resilience"
+  },
+  {
+    "title": "OKR: Backup & Restore — MVP"
+  },
+  {
+    "title": "Roadmap Item: Chatbot — Q2 2026"
+  },
+  {
+    "title": "Security Advisory: Reporting — Usability"
+  },
+  {
+    "title": "Sprint Goal: Search — Beta"
+  },
+  {
+    "title": "Invoice Reconciliation: Inventory — Q2 2026"
+  },
+  {
+    "title": "Service Catalogue: Backup & Restore — Rollback Plan"
+  },
+  {
+    "title": "Epic: Chatbot — Hotfix"
+  },
+  {
+    "title": "Marketing Campaign: Supply Chain — MVP"
+  },
+  {
+    "title": "FAQ: File Storage — Refactor"
+  },
+  {
+    "title": "Data Migration Task: Billing — Hotfix"
+  },
+  {
+    "title": "Invoice Reconciliation: Monitoring — Phase 2"
+  },
+  {
+    "title": "Sprint Goal: Authentication — Beta"
+  },
+  {
+    "title": "Service Catalogue: Mobile App — Hotfix"
+  },
+  {
+    "title": "Integration Checklist: Geo-Location — Resilience"
+  },
+  {
+    "title": "Compliance Update: DevOps Pipeline — Rollback Plan"
+  },
+  {
+    "title": "Data Quality Issue: Notifications — Usability"
+  },
+  {
+    "title": "Compliance Update: Supply Chain — Usability"
+  },
+  {
+    "title": "Service Catalogue: Reporting — Phase 2"
+  },
+  {
+    "title": "Customer Feedback: Performance — Security"
+  },
+  {
+    "title": "Security Advisory: Search — v1.1"
+  },
+  {
+    "title": "FAQ: Loyalty Program — Scalability"
+  },
+  {
+    "title": "Security Advisory: Accessibility — Pilot"
+  },
+  {
+    "title": "Feature Request: Web Portal — Optimization"
+  },
+  {
+    "title": "Epic: Backup & Restore — Rollback Plan"
+  },
+  {
+    "title": "Customer Feedback: Localization — Phase 2"
+  },
+  {
+    "title": "Release Notes: File Storage — Q1 2026"
+  },
+  {
+    "title": "Incident: Accessibility — Rollback Plan"
+  },
+  {
+    "title": "Knowledge Base: Accessibility — Q2 2026"
+  },
+  {
+    "title": "Invoice Reconciliation: Inventory — GA"
+  },
+  {
+    "title": "Sprint Goal: Accessibility — v1.1"
+  },
+  {
+    "title": "Product Announcement: Single Sign-On — Pilot"
+  },
+  {
+    "title": "Marketing Campaign: DevOps Pipeline — v1.1"
+  },
+  {
+    "title": "Integration Checklist: Supply Chain — Q1 2026"
+  },
+  {
+    "title": "Incident: Loyalty Program — Q1 2026"
+  },
+  {
+    "title": "Integration Checklist: Supply Chain — v1.1"
+  },
+  {
+    "title": "Architecture Decision Record: Billing — Rollback Plan"
+  },
+  {
+    "title": "API Specification: Supply Chain — Beta"
+  },
+  {
+    "title": "Data Migration Task: Authentication — v1.0"
+  },
+  {
+    "title": "Sprint Goal: Single Sign-On — Availability"
+  },
+  {
+    "title": "Customer Feedback: Supply Chain — GA"
+  },
+  {
+    "title": "Marketing Campaign: Email Service — Rollback Plan"
+  },
+  {
+    "title": "Data Migration Task: Data Lake — Scalability"
+  },
+  {
+    "title": "Change Request: Reporting — Q2 2026"
+  },
+  {
+    "title": "OKR: Web Portal — GA"
+  },
+  {
+    "title": "API Specification: DevOps Pipeline — Migration"
+  },
+  {
+    "title": "Release Notes: DevOps Pipeline — GA"
+  },
+  {
+    "title": "OKR: Inventory — Security"
+  },
+  {
+    "title": "FAQ: CI/CD — Q2 2026"
+  },
+  {
+    "title": "API Specification: Performance — Resilience"
+  },
+  {
+    "title": "Data Migration Task: Billing — Optimization"
+  },
+  {
+    "title": "Training Module: Orders — v2.0"
+  },
+  {
+    "title": "Test Case: Localization — Phase 1"
+  },
+  {
+    "title": "API Specification: Data Lake — Rollback Plan"
+  },
+  {
+    "title": "Epic: Supply Chain — Pilot"
+  },
+  {
+    "title": "Release Notes: Reporting — Refactor"
+  },
+  {
+    "title": "Security Advisory: Geo-Location — MVP"
+  },
+  {
+    "title": "Epic: Inventory — Security"
+  },
+  {
+    "title": "Procurement Request: Single Sign-On — v1.0"
+  },
+  {
+    "title": "Compliance Update: Accessibility — Hotfix"
+  },
+  {
+    "title": "Service Catalogue: Search — v1.1"
+  },
+  {
+    "title": "FAQ: Web Portal — Migration"
+  },
+  {
+    "title": "Sprint Goal: Analytics — Refactor"
+  },
+  {
+    "title": "FAQ: Email Service — Beta"
+  },
+  {
+    "title": "Service Catalogue: Web Portal — Resilience"
+  },
+  {
+    "title": "Integration Checklist: Inventory — Hotfix"
+  },
+  {
+    "title": "Roadmap Item: Search — Pilot"
+  },
+  {
+    "title": "Onboarding Guide: Chatbot — Phase 2"
+  },
+  {
+    "title": "Change Request: DevOps Pipeline — Availability"
+  },
+  {
+    "title": "Integration Checklist: Chatbot — Usability"
+  },
+  {
+    "title": "OKR: Localization — Q2 2026"
+  },
+  {
+    "title": "Invoice Reconciliation: Search — Availability"
+  },
+  {
+    "title": "Dashboard: Monitoring — v2.0"
+  },
+  {
+    "title": "Training Module: Geo-Location — Scalability"
+  },
+  {
+    "title": "Service Catalogue: Customer 360 — v2.0"
+  },
+  {
+    "title": "Integration Checklist: Single Sign-On — Phase 1"
+  },
+  {
+    "title": "Feature Request: Caching — Usability"
+  },
+  {
+    "title": "Data Migration Task: Email Service — Q2 2026"
+  },
+  {
+    "title": "API Specification: Orders — Scalability"
+  },
+  {
+    "title": "Change Request: Web Portal — Q2 2026"
+  },
+  {
+    "title": "Service Catalogue: Single Sign-On — Rollback Plan"
+  },
+  {
+    "title": "Bug Report: Loyalty Program — Scalability"
+  },
+  {
+    "title": "Change Request: Monitoring — v1.1"
+  },
+  {
+    "title": "Change Request: Data Lake — Scalability"
+  },
+  {
+    "title": "Incident: Geo-Location — Security"
+  },
+  {
+    "title": "Feature Request: File Storage — Migration"
+  },
+  {
+    "title": "FAQ: Monitoring — Beta"
+  },
+  {
+    "title": "Procurement Request: Payments — Refactor"
+  },
+  {
+    "title": "Procurement Request: Notifications — Security"
+  },
+  {
+    "title": "Bug Report: Authentication — Optimization"
+  },
+  {
+    "title": "User Story: Backup & Restore — v2.0"
+  },
+  {
+    "title": "Marketing Campaign: Authentication — v2.0"
+  },
+  {
+    "title": "Sprint Goal: Fraud Detection — Q1 2026"
+  },
+  {
+    "title": "Invoice Reconciliation: Data Lake — Resilience"
+  },
+  {
+    "title": "Procurement Request: Accessibility — Optimization"
+  },
+  {
+    "title": "User Story: Loyalty Program — Refactor"
+  },
+  {
+    "title": "Change Request: Product Catalog — Refactor"
+  },
+  {
+    "title": "Test Case: Mobile App — Usability"
+  },
+  {
+    "title": "Onboarding Guide: Accessibility — Hotfix"
+  },
+  {
+    "title": "Customer Feedback: Analytics — Usability"
+  },
+  {
+    "title": "Test Case: Email Service — Phase 2"
+  },
+  {
+    "title": "Procurement Request: Search — v1.0"
+  },
+  {
+    "title": "Invoice Reconciliation: Payments — Beta"
+  },
+  {
+    "title": "Change Request: Localization — Usability"
+  },
+  {
+    "title": "Incident: File Storage — Refactor"
+  },
+  {
+    "title": "Architecture Decision Record: Search — Pilot"
+  },
+  {
+    "title": "Change Request: Customer 360 — Phase 2"
+  },
+  {
+    "title": "Feature Request: Monitoring — Optimization"
+  },
+  {
+    "title": "Roadmap Item: CI/CD — v1.0"
+  },
+  {
+    "title": "Security Advisory: Notifications — v2.0"
+  },
+  {
+    "title": "Customer Feedback: Performance — v1.1"
+  },
+  {
+    "title": "Change Request: Performance — v1.1"
+  },
+  {
+    "title": "Security Advisory: DevOps Pipeline — v1.1"
+  },
+  {
+    "title": "Test Case: Geo-Location — Pilot"
+  },
+  {
+    "title": "Marketing Campaign: Notifications — v1.1"
+  },
+  {
+    "title": "Onboarding Guide: Email Service — Beta"
+  },
+  {
+    "title": "Security Advisory: Caching — Security"
+  },
+  {
+    "title": "Epic: Single Sign-On — Availability"
+  },
+  {
+    "title": "Invoice Reconciliation: Localization — GA"
+  },
+  {
+    "title": "Security Advisory: Inventory — Phase 2"
+  },
+  {
+    "title": "FAQ: Email Service — Pilot"
+  },
+  {
+    "title": "Incident: Inventory — MVP"
+  },
+  {
+    "title": "Feature Request: File Storage — Security"
+  },
+  {
+    "title": "Data Migration Task: DevOps Pipeline — Q1 2026"
+  },
+  {
+    "title": "Product Announcement: Localization — Optimization"
+  },
+  {
+    "title": "Marketing Campaign: Chatbot — v1.1"
+  },
+  {
+    "title": "User Story: Accessibility — Refactor"
+  },
+  {
+    "title": "OKR: Email Service — GA"
+  },
+  {
+    "title": "Service Catalogue: Fraud Detection — Optimization"
+  },
+  {
+    "title": "Onboarding Guide: Inventory — Refactor"
+  },
+  {
+    "title": "API Specification: CI/CD — Usability"
+  },
+  {
+    "title": "Knowledge Base: Search — Pilot"
+  },
+  {
+    "title": "Sprint Goal: Product Catalog — Phase 2"
+  },
+  {
+    "title": "Marketing Campaign: Fraud Detection — Optimization"
+  },
+  {
+    "title": "Marketing Campaign: Email Service — Phase 2"
+  },
+  {
+    "title": "Test Case: Search — MVP"
+  },
+  {
+    "title": "Data Quality Issue: Orders — Resilience"
+  },
+  {
+    "title": "Bug Report: Supply Chain — Migration"
+  },
+  {
+    "title": "Dashboard: Customer 360 — v2.0"
+  },
+  {
+    "title": "Marketing Campaign: DevOps Pipeline — Q2 2026"
+  },
+  {
+    "title": "Feature Request: Reporting — Refactor"
+  },
+  {
+    "title": "FAQ: Performance — Availability"
+  },
+  {
+    "title": "Feature Request: Product Catalog — v2.0"
+  },
+  {
+    "title": "Data Quality Issue: Monitoring — Security"
+  },
+  {
+    "title": "Procurement Request: Localization — Usability"
+  },
+  {
+    "title": "Data Quality Issue: Chatbot — Q2 2026"
+  },
+  {
+    "title": "Dashboard: Supply Chain — GA"
+  },
+  {
+    "title": "Sprint Goal: Supply Chain — v1.0"
+  },
+  {
+    "title": "Data Quality Issue: Supply Chain — Q2 2026"
+  },
+  {
+    "title": "Procurement Request: Web Portal — Rollback Plan"
+  },
+  {
+    "title": "Integration Checklist: Search — Availability"
+  },
+  {
+    "title": "Service Catalogue: Notifications — Refactor"
+  },
+  {
+    "title": "Integration Checklist: Search — Usability"
+  },
+  {
+    "title": "Epic: CI/CD — Beta"
+  },
+  {
+    "title": "Test Case: Geo-Location — Usability"
+  },
+  {
+    "title": "Product Announcement: Customer 360 — Beta"
+  },
+  {
+    "title": "Compliance Update: Customer 360 — Scalability"
+  },
+  {
+    "title": "Data Migration Task: Chatbot — Migration"
+  },
+  {
+    "title": "Customer Feedback: Monitoring — Rollback Plan"
+  },
+  {
+    "title": "Invoice Reconciliation: Caching — GA"
+  },
+  {
+    "title": "Integration Checklist: Notifications — Hotfix"
+  },
+  {
+    "title": "Epic: Fraud Detection — v1.1"
+  },
+  {
+    "title": "Quarterly Review: Product Catalog — Pilot"
+  },
+  {
+    "title": "Procurement Request: Data Lake — v1.0"
+  },
+  {
+    "title": "Compliance Update: File Storage — Security"
+  },
+  {
+    "title": "Quarterly Review: DevOps Pipeline — Optimization"
+  },
+  {
+    "title": "Sprint Goal: Data Lake — Q2 2026"
+  },
+  {
+    "title": "Epic: Search — Refactor"
+  },
+  {
+    "title": "Quarterly Review: Caching — Pilot"
+  },
+  {
+    "title": "Knowledge Base: File Storage — Resilience"
+  },
+  {
+    "title": "FAQ: Orders — MVP"
+  },
+  {
+    "title": "Invoice Reconciliation: Caching — Rollback Plan"
+  },
+  {
+    "title": "Procurement Request: Accessibility — Rollback Plan"
+  },
+  {
+    "title": "Change Request: Analytics — Hotfix"
+  },
+  {
+    "title": "API Specification: Data Lake — Usability"
+  },
+  {
+    "title": "Knowledge Base: Analytics — Usability"
+  },
+  {
+    "title": "Product Announcement: Authentication — Scalability"
+  },
+  {
+    "title": "Feature Request: Caching — v2.0"
+  },
+  {
+    "title": "Architecture Decision Record: Localization — v1.1"
+  },
+  {
+    "title": "Invoice Reconciliation: Payments — Optimization"
+  },
+  {
+    "title": "Onboarding Guide: Caching — Resilience"
+  },
+  {
+    "title": "Security Advisory: Mobile App — Phase 2"
+  },
+  {
+    "title": "Release Notes: Notifications — Scalability"
+  },
+  {
+    "title": "Change Request: Customer 360 — v1.1"
+  },
+  {
+    "title": "Roadmap Item: Accessibility — Availability"
+  },
+  {
+    "title": "Integration Checklist: Chatbot — Rollback Plan"
+  },
+  {
+    "title": "Release Notes: Payments — Usability"
+  },
+  {
+    "title": "Marketing Campaign: Fraud Detection — v1.0"
+  },
+  {
+    "title": "Release Notes: Email Service — MVP"
+  },
+  {
+    "title": "Marketing Campaign: Inventory — v1.0"
+  },
+  {
+    "title": "Training Module: Caching — Optimization"
+  },
+  {
+    "title": "OKR: Supply Chain — Q1 2026"
+  },
+  {
+    "title": "Customer Feedback: Supply Chain — Phase 1"
+  },
+  {
+    "title": "Training Module: Data Lake — Pilot"
+  },
+  {
+    "title": "Compliance Update: Caching — Hotfix"
+  },
+  {
+    "title": "Compliance Update: Monitoring — Refactor"
+  },
+  {
+    "title": "Bug Report: Customer 360 — Refactor"
+  },
+  {
+    "title": "Change Request: Single Sign-On — Pilot"
+  },
+  {
+    "title": "FAQ: Caching — v2.0"
+  },
+  {
+    "title": "Product Announcement: Product Catalog — Resilience"
+  },
+  {
+    "title": "Invoice Reconciliation: Authentication — v2.0"
+  },
+  {
+    "title": "Test Case: Billing — Refactor"
+  },
+  {
+    "title": "Product Announcement: Payments — Q1 2026"
+  },
+  {
+    "title": "Bug Report: Chatbot — Optimization"
+  },
+  {
+    "title": "Quarterly Review: Product Catalog — Phase 1"
+  },
+  {
+    "title": "Data Migration Task: Email Service — v1.1"
+  },
+  {
+    "title": "Security Advisory: Notifications — Security"
+  },
+  {
+    "title": "Integration Checklist: Mobile App — MVP"
+  },
+  {
+    "title": "Data Migration Task: File Storage — Security"
+  },
+  {
+    "title": "FAQ: Authentication — Q1 2026"
+  },
+  {
+    "title": "Integration Checklist: Product Catalog — GA"
+  },
+  {
+    "title": "Release Notes: Notifications — Security"
+  },
+  {
+    "title": "Onboarding Guide: CI/CD — Refactor"
+  },
+  {
+    "title": "Integration Checklist: Mobile App — Beta"
+  },
+  {
+    "title": "API Specification: Single Sign-On — Pilot"
+  },
+  {
+    "title": "Quarterly Review: Caching — Refactor"
+  },
+  {
+    "title": "Epic: Billing — Phase 2"
+  },
+  {
+    "title": "OKR: Backup & Restore — v2.0"
+  },
+  {
+    "title": "Training Module: DevOps Pipeline — Hotfix"
+  },
+  {
+    "title": "Security Advisory: Caching — v2.0"
+  },
+  {
+    "title": "Epic: Performance — Availability"
+  },
+  {
+    "title": "Roadmap Item: Billing — GA"
+  },
+  {
+    "title": "Release Notes: Accessibility — MVP"
+  },
+  {
+    "title": "OKR: Geo-Location — Rollback Plan"
+  },
+  {
+    "title": "Security Advisory: Customer 360 — Usability"
+  },
+  {
+    "title": "Test Case: Fraud Detection — Q1 2026"
+  },
+  {
+    "title": "FAQ: Single Sign-On — Refactor"
+  },
+  {
+    "title": "Bug Report: CI/CD — Availability"
+  },
+  {
+    "title": "Sprint Goal: Monitoring — Pilot"
+  },
+  {
+    "title": "Service Catalogue: Mobile App — v2.0"
+  },
+  {
+    "title": "Compliance Update: Data Lake — Refactor"
+  },
+  {
+    "title": "Service Catalogue: Monitoring — Resilience"
+  },
+  {
+    "title": "Onboarding Guide: DevOps Pipeline — Refactor"
+  },
+  {
+    "title": "Epic: Customer 360 — Phase 1"
+  },
+  {
+    "title": "Bug Report: Payments — Beta"
+  },
+  {
+    "title": "Change Request: Customer 360 — MVP"
+  },
+  {
+    "title": "Customer Feedback: Data Lake — v2.0"
+  },
+  {
+    "title": "API Specification: Fraud Detection — Migration"
+  },
+  {
+    "title": "Marketing Campaign: File Storage — Scalability"
+  },
+  {
+    "title": "Incident: Web Portal — v1.0"
+  },
+  {
+    "title": "Bug Report: Customer 360 — Usability"
+  },
+  {
+    "title": "Bug Report: Performance — Availability"
+  },
+  {
+    "title": "Release Notes: Inventory — Optimization"
+  },
+  {
+    "title": "Test Case: CI/CD — v2.0"
+  },
+  {
+    "title": "Procurement Request: Loyalty Program — Usability"
+  },
+  {
+    "title": "Data Migration Task: Search — Security"
+  },
+  {
+    "title": "Training Module: Analytics — Refactor"
+  },
+  {
+    "title": "API Specification: Data Lake — MVP"
+  },
+  {
+    "title": "Sprint Goal: Reporting — Rollback Plan"
+  },
+  {
+    "title": "Onboarding Guide: Mobile App — Q1 2026"
+  },
+  {
+    "title": "Incident: Reporting — Optimization"
+  },
+  {
+    "title": "Sprint Goal: Chatbot — v2.0"
+  },
+  {
+    "title": "User Story: Reporting — Pilot"
+  },
+  {
+    "title": "Roadmap Item: Performance — Q2 2026"
+  },
+  {
+    "title": "Change Request: Web Portal — Phase 2"
+  },
+  {
+    "title": "Sprint Goal: Payments — Refactor"
+  },
+  {
+    "title": "Epic: Caching — Availability"
+  },
+  {
+    "title": "Test Case: Monitoring — GA"
+  },
+  {
+    "title": "Change Request: Orders — Optimization"
+  },
+  {
+    "title": "Architecture Decision Record: Caching — Resilience"
+  },
+  {
+    "title": "Roadmap Item: Data Lake — Beta"
+  },
+  {
+    "title": "Epic: Performance — Q2 2026"
+  },
+  {
+    "title": "Knowledge Base: Orders — Q1 2026"
+  },
+  {
+    "title": "Test Case: Orders — Beta"
+  },
+  {
+    "title": "Procurement Request: Backup & Restore — Resilience"
+  },
+  {
+    "title": "Knowledge Base: Single Sign-On — Pilot"
+  },
+  {
+    "title": "Epic: Billing — MVP"
+  },
+  {
+    "title": "Architecture Decision Record: Monitoring — Refactor"
+  },
+  {
+    "title": "Data Quality Issue: Single Sign-On — Usability"
+  },
+  {
+    "title": "API Specification: Localization — Usability"
+  },
+  {
+    "title": "Release Notes: DevOps Pipeline — Migration"
+  },
+  {
+    "title": "Service Catalogue: Notifications — Migration"
+  },
+  {
+    "title": "OKR: Inventory — v2.0"
+  },
+  {
+    "title": "Architecture Decision Record: Product Catalog — Optimization"
+  },
+  {
+    "title": "Product Announcement: Inventory — Pilot"
+  },
+  {
+    "title": "Compliance Update: Localization — Phase 2"
+  },
+  {
+    "title": "Service Catalogue: Fraud Detection — Refactor"
+  },
+  {
+    "title": "Bug Report: Geo-Location — Availability"
+  },
+  {
+    "title": "Knowledge Base: Single Sign-On — Refactor"
+  },
+  {
+    "title": "Marketing Campaign: Email Service — Optimization"
+  },
+  {
+    "title": "Service Catalogue: Loyalty Program — Usability"
+  },
+  {
+    "title": "Roadmap Item: Accessibility — v2.0"
+  },
+  {
+    "title": "Customer Feedback: CI/CD — Pilot"
+  },
+  {
+    "title": "FAQ: Localization — Hotfix"
+  },
+  {
+    "title": "API Specification: Accessibility — Availability"
+  },
+  {
+    "title": "Feature Request: Single Sign-On — Resilience"
+  },
+  {
+    "title": "FAQ: Accessibility — Refactor"
+  },
+  {
+    "title": "Invoice Reconciliation: Orders — Optimization"
+  },
+  {
+    "title": "Customer Feedback: Payments — Phase 1"
+  },
+  {
+    "title": "Compliance Update: Search — Scalability"
+  },
+  {
+    "title": "Procurement Request: Email Service — Usability"
+  },
+  {
+    "title": "Quarterly Review: Backup & Restore — Security"
+  },
+  {
+    "title": "Security Advisory: Geo-Location — Hotfix"
+  },
+  {
+    "title": "Service Catalogue: Email Service — Phase 2"
+  },
+  {
+    "title": "User Story: Payments — Rollback Plan"
+  },
+  {
+    "title": "Customer Feedback: Inventory — Optimization"
+  },
+  {
+    "title": "Integration Checklist: Mobile App — Phase 1"
+  },
+  {
+    "title": "Architecture Decision Record: DevOps Pipeline — Phase 2"
+  },
+  {
+    "title": "Change Request: Monitoring — Q2 2026"
+  },
+  {
+    "title": "Training Module: Chatbot — Hotfix"
+  },
+  {
+    "title": "Knowledge Base: Web Portal — Migration"
+  },
+  {
+    "title": "Procurement Request: Backup & Restore — Migration"
+  },
+  {
+    "title": "Epic: Mobile App — Beta"
+  },
+  {
+    "title": "Feature Request: Monitoring — Phase 1"
+  },
+  {
+    "title": "Release Notes: Product Catalog — GA"
+  },
+  {
+    "title": "Product Announcement: Web Portal — Q1 2026"
+  },
+  {
+    "title": "Integration Checklist: DevOps Pipeline — Pilot"
+  },
+  {
+    "title": "Training Module: Analytics — Usability"
+  },
+  {
+    "title": "API Specification: Orders — Usability"
+  },
+  {
+    "title": "OKR: Billing — Resilience"
+  },
+  {
+    "title": "API Specification: Analytics — Resilience"
+  },
+  {
+    "title": "FAQ: Fraud Detection — Refactor"
+  },
+  {
+    "title": "Release Notes: DevOps Pipeline — Availability"
+  },
+  {
+    "title": "Data Migration Task: Notifications — Migration"
+  },
+  {
+    "title": "Quarterly Review: Fraud Detection — Refactor"
+  },
+  {
+    "title": "Release Notes: Backup & Restore — Q2 2026"
+  },
+  {
+    "title": "Data Quality Issue: Reporting — v2.0"
+  },
+  {
+    "title": "Quarterly Review: Web Portal — Usability"
+  },
+  {
+    "title": "API Specification: Customer 360 — GA"
+  },
+  {
+    "title": "Data Quality Issue: Geo-Location — Phase 1"
+  },
+  {
+    "title": "Training Module: Accessibility — GA"
+  },
+  {
+    "title": "Roadmap Item: Billing — Availability"
+  },
+  {
+    "title": "Test Case: Single Sign-On — Phase 1"
+  },
+  {
+    "title": "Roadmap Item: Analytics — Beta"
+  },
+  {
+    "title": "Integration Checklist: Performance — Security"
+  },
+  {
+    "title": "Bug Report: Localization — Phase 2"
+  },
+  {
+    "title": "Epic: Web Portal — Pilot"
+  },
+  {
+    "title": "Sprint Goal: Web Portal — Q1 2026"
+  },
+  {
+    "title": "User Story: Backup & Restore — Phase 2"
+  },
+  {
+    "title": "Training Module: Billing — Optimization"
+  },
+  {
+    "title": "Roadmap Item: Data Lake — Security"
+  },
+  {
+    "title": "Knowledge Base: Accessibility — Usability"
+  },
+  {
+    "title": "Integration Checklist: Analytics — Usability"
+  },
+  {
+    "title": "API Specification: Chatbot — Beta"
+  },
+  {
+    "title": "Onboarding Guide: Analytics — GA"
+  },
+  {
+    "title": "Architecture Decision Record: Geo-Location — Availability"
+  },
+  {
+    "title": "Feature Request: Product Catalog — Hotfix"
+  },
+  {
+    "title": "Release Notes: Chatbot — Phase 2"
+  },
+  {
+    "title": "Data Quality Issue: Caching — Refactor"
+  },
+  {
+    "title": "Marketing Campaign: Email Service — Resilience"
+  },
+  {
+    "title": "Knowledge Base: Fraud Detection — Rollback Plan"
+  },
+  {
+    "title": "Incident: Backup & Restore — Migration"
+  },
+  {
+    "title": "Knowledge Base: Analytics — v2.0"
+  },
+  {
+    "title": "Quarterly Review: Payments — Pilot"
+  },
+  {
+    "title": "Sprint Goal: Authentication — MVP"
+  },
+  {
+    "title": "Security Advisory: File Storage — Beta"
+  },
+  {
+    "title": "API Specification: CI/CD — Migration"
+  },
+  {
+    "title": "Quarterly Review: DevOps Pipeline — Rollback Plan"
+  },
+  {
+    "title": "Marketing Campaign: Email Service — Phase 1"
+  },
+  {
+    "title": "Quarterly Review: Web Portal — MVP"
+  },
+  {
+    "title": "Invoice Reconciliation: File Storage — Hotfix"
+  },
+  {
+    "title": "Marketing Campaign: Caching — v1.1"
+  },
+  {
+    "title": "Marketing Campaign: Notifications — Optimization"
+  },
+  {
+    "title": "Customer Feedback: DevOps Pipeline — Resilience"
+  },
+  {
+    "title": "Invoice Reconciliation: Search — Beta"
+  },
+  {
+    "title": "Dashboard: Authentication — Migration"
+  },
+  {
+    "title": "Compliance Update: Customer 360 — v2.0"
+  },
+  {
+    "title": "Change Request: Product Catalog — Phase 1"
+  },
+  {
+    "title": "Service Catalogue: Customer 360 — Availability"
+  },
+  {
+    "title": "Product Announcement: Fraud Detection — Q1 2026"
+  },
+  {
+    "title": "Roadmap Item: Data Lake — Q2 2026"
+  },
+  {
+    "title": "Architecture Decision Record: Notifications — v1.1"
+  },
+  {
+    "title": "Quarterly Review: Customer 360 — Usability"
+  },
+  {
+    "title": "Compliance Update: Performance — Usability"
+  },
+  {
+    "title": "API Specification: Orders — Beta"
+  },
+  {
+    "title": "Sprint Goal: Single Sign-On — MVP"
+  },
+  {
+    "title": "Dashboard: Email Service — Phase 1"
+  },
+  {
+    "title": "Onboarding Guide: CI/CD — Optimization"
+  },
+  {
+    "title": "Integration Checklist: Authentication — MVP"
+  },
+  {
+    "title": "Dashboard: Accessibility — Phase 2"
+  },
+  {
+    "title": "Service Catalogue: Product Catalog — Phase 2"
+  },
+  {
+    "title": "Security Advisory: Data Lake — GA"
+  },
+  {
+    "title": "Architecture Decision Record: Search — Refactor"
+  },
+  {
+    "title": "Knowledge Base: Data Lake — Security"
+  },
+  {
+    "title": "Product Announcement: Reporting — Resilience"
+  },
+  {
+    "title": "Incident: Billing — Migration"
+  },
+  {
+    "title": "Test Case: Email Service — MVP"
+  },
+  {
+    "title": "Service Catalogue: Supply Chain — Hotfix"
+  },
+  {
+    "title": "Change Request: Chatbot — GA"
+  },
+  {
+    "title": "Quarterly Review: Payments — v2.0"
+  },
+  {
+    "title": "Procurement Request: Geo-Location — Resilience"
+  },
+  {
+    "title": "FAQ: Backup & Restore — Hotfix"
+  },
+  {
+    "title": "Dashboard: Mobile App — Usability"
+  },
+  {
+    "title": "Test Case: Notifications — Optimization"
+  },
+  {
+    "title": "Architecture Decision Record: Notifications — Rollback Plan"
+  },
+  {
+    "title": "Compliance Update: Orders — Beta"
+  },
+  {
+    "title": "Epic: File Storage — Security"
+  },
+  {
+    "title": "Onboarding Guide: Single Sign-On — Rollback Plan"
+  },
+  {
+    "title": "OKR: Orders — v1.1"
+  },
+  {
+    "title": "Feature Request: Web Portal — Resilience"
+  },
+  {
+    "title": "OKR: Caching — Migration"
+  },
+  {
+    "title": "Release Notes: Web Portal — Q1 2026"
+  },
+  {
+    "title": "Change Request: Geo-Location — v1.0"
+  },
+  {
+    "title": "Incident: Notifications — Phase 2"
+  },
+  {
+    "title": "Data Migration Task: Accessibility — Beta"
+  },
+  {
+    "title": "API Specification: Product Catalog — MVP"
+  },
+  {
+    "title": "Bug Report: Accessibility — Hotfix"
+  },
+  {
+    "title": "Compliance Update: Mobile App — Hotfix"
+  },
+  {
+    "title": "FAQ: Loyalty Program — Resilience"
+  },
+  {
+    "title": "API Specification: Authentication — Refactor"
+  },
+  {
+    "title": "Incident: Accessibility — v2.0"
+  },
+  {
+    "title": "Service Catalogue: Web Portal — v1.0"
+  },
+  {
+    "title": "Data Quality Issue: Chatbot — v2.0"
+  },
+  {
+    "title": "Onboarding Guide: Single Sign-On — Pilot"
+  },
+  {
+    "title": "Training Module: Localization — Migration"
+  },
+  {
+    "title": "Release Notes: Payments — GA"
+  },
+  {
+    "title": "Architecture Decision Record: Web Portal — Optimization"
+  },
+  {
+    "title": "Service Catalogue: Data Lake — Rollback Plan"
+  },
+  {
+    "title": "Bug Report: Search — Refactor"
+  },
+  {
+    "title": "Bug Report: DevOps Pipeline — Phase 1"
+  },
+  {
+    "title": "Customer Feedback: Orders — Hotfix"
+  },
+  {
+    "title": "Data Migration Task: Inventory — Phase 2"
+  },
+  {
+    "title": "Test Case: CI/CD — Phase 2"
+  },
+  {
+    "title": "Product Announcement: Localization — Phase 2"
+  },
+  {
+    "title": "Bug Report: Email Service — Security"
+  },
+  {
+    "title": "Release Notes: Performance — Resilience"
+  },
+  {
+    "title": "API Specification: Geo-Location — Hotfix"
+  },
+  {
+    "title": "Procurement Request: Notifications — Resilience"
+  },
+  {
+    "title": "Procurement Request: Data Lake — Optimization"
+  },
+  {
+    "title": "Roadmap Item: Localization — Migration"
+  },
+  {
+    "title": "Dashboard: Notifications — v2.0"
+  },
+  {
+    "title": "Data Migration Task: Web Portal — Phase 2"
+  },
+  {
+    "title": "Invoice Reconciliation: Web Portal — Security"
+  },
+  {
+    "title": "Procurement Request: Billing — Hotfix"
+  },
+  {
+    "title": "Incident: Orders — Phase 2"
+  },
+  {
+    "title": "Security Advisory: Reporting — Resilience"
+  },
+  {
+    "title": "Bug Report: Search — Usability"
+  },
+  {
+    "title": "Sprint Goal: CI/CD — v1.0"
+  },
+  {
+    "title": "Dashboard: Product Catalog — Beta"
+  },
+  {
+    "title": "Data Quality Issue: Email Service — Availability"
+  },
+  {
+    "title": "Training Module: Notifications — Refactor"
+  },
+  {
+    "title": "OKR: Loyalty Program — Pilot"
+  },
+  {
+    "title": "Knowledge Base: Billing — Phase 1"
+  },
+  {
+    "title": "Security Advisory: Chatbot — Resilience"
+  },
+  {
+    "title": "Roadmap Item: Mobile App — Scalability"
+  },
+  {
+    "title": "Data Migration Task: Payments — Hotfix"
+  },
+  {
+    "title": "Integration Checklist: Orders — Phase 2"
+  },
+  {
+    "title": "Test Case: Product Catalog — Security"
+  },
+  {
+    "title": "Incident: Customer 360 — Usability"
+  },
+  {
+    "title": "FAQ: Analytics — Rollback Plan"
+  },
+  {
+    "title": "Invoice Reconciliation: Mobile App — v1.0"
+  },
+  {
+    "title": "Quarterly Review: Mobile App — v1.0"
+  },
+  {
+    "title": "Compliance Update: Notifications — v1.1"
+  },
+  {
+    "title": "Integration Checklist: Authentication — Refactor"
+  },
+  {
+    "title": "Training Module: Inventory — Resilience"
+  },
+  {
+    "title": "Service Catalogue: Email Service — Optimization"
+  },
+  {
+    "title": "Incident: Backup & Restore — Refactor"
+  },
+  {
+    "title": "Bug Report: Accessibility — Usability"
+  },
+  {
+    "title": "Marketing Campaign: Performance — Phase 2"
+  },
+  {
+    "title": "Compliance Update: Mobile App — Beta"
+  },
+  {
+    "title": "Bug Report: Email Service — Q2 2026"
+  },
+  {
+    "title": "Epic: Billing — Security"
+  },
+  {
+    "title": "Product Announcement: CI/CD — Resilience"
+  },
+  {
+    "title": "FAQ: Accessibility — v2.0"
+  },
+  {
+    "title": "Sprint Goal: Backup & Restore — Optimization"
+  },
+  {
+    "title": "Procurement Request: Product Catalog — Pilot"
+  },
+  {
+    "title": "Integration Checklist: Fraud Detection — Phase 1"
+  },
+  {
+    "title": "Change Request: Performance — Availability"
+  },
+  {
+    "title": "Feature Request: Inventory — Q1 2026"
+  },
+  {
+    "title": "Customer Feedback: Payments — Phase 2"
+  },
+  {
+    "title": "Service Catalogue: Payments — Q1 2026"
+  },
+  {
+    "title": "Knowledge Base: Customer 360 — Scalability"
+  },
+  {
+    "title": "Training Module: Monitoring — MVP"
+  },
+  {
+    "title": "API Specification: Customer 360 — Phase 2"
+  },
+  {
+    "title": "Procurement Request: CI/CD — MVP"
+  },
+  {
+    "title": "Procurement Request: Loyalty Program — Phase 1"
+  },
+  {
+    "title": "Invoice Reconciliation: Loyalty Program — v1.0"
+  },
+  {
+    "title": "Epic: Monitoring — Optimization"
+  },
+  {
+    "title": "Compliance Update: Email Service — v2.0"
+  },
+  {
+    "title": "Compliance Update: Backup & Restore — Security"
+  },
+  {
+    "title": "Product Announcement: Mobile App — Rollback Plan"
+  },
+  {
+    "title": "Change Request: Email Service — Hotfix"
+  },
+  {
+    "title": "Feature Request: Chatbot — Security"
+  },
+  {
+    "title": "API Specification: Customer 360 — Q1 2026"
+  },
+  {
+    "title": "Compliance Update: CI/CD — Phase 1"
+  },
+  {
+    "title": "Data Migration Task: Single Sign-On — Phase 1"
+  },
+  {
+    "title": "Security Advisory: DevOps Pipeline — Scalability"
+  },
+  {
+    "title": "Release Notes: Authentication — v1.0"
+  },
+  {
+    "title": "Security Advisory: Authentication — Rollback Plan"
+  },
+  {
+    "title": "User Story: Billing — Phase 2"
+  },
+  {
+    "title": "API Specification: Supply Chain — v1.1"
+  },
+  {
+    "title": "Marketing Campaign: Monitoring — Resilience"
+  },
+  {
+    "title": "Incident: Search — GA"
+  },
+  {
+    "title": "Security Advisory: Fraud Detection — GA"
+  },
+  {
+    "title": "Quarterly Review: Customer 360 — Phase 1"
+  },
+  {
+    "title": "Training Module: Localization — v1.1"
+  },
+  {
+    "title": "API Specification: Search — Scalability"
+  },
+  {
+    "title": "Feature Request: Billing — v2.0"
+  },
+  {
+    "title": "Data Migration Task: Geo-Location — Beta"
+  },
+  {
+    "title": "Invoice Reconciliation: Product Catalog — Beta"
+  },
+  {
+    "title": "Epic: Mobile App — Usability"
+  },
+  {
+    "title": "Change Request: Payments — Hotfix"
+  },
+  {
+    "title": "Data Quality Issue: Inventory — Security"
+  },
+  {
+    "title": "Quarterly Review: Chatbot — Q2 2026"
+  },
+  {
+    "title": "Onboarding Guide: Payments — Optimization"
+  },
+  {
+    "title": "Release Notes: Search — Usability"
+  },
+  {
+    "title": "User Story: Accessibility — v1.0"
+  },
+  {
+    "title": "Epic: Payments — Refactor"
+  },
+  {
+    "title": "Dashboard: DevOps Pipeline — Beta"
+  },
+  {
+    "title": "Customer Feedback: Notifications — Scalability"
+  },
+  {
+    "title": "Security Advisory: Fraud Detection — Rollback Plan"
+  },
+  {
+    "title": "Feature Request: Data Lake — MVP"
+  },
+  {
+    "title": "Bug Report: Authentication — Pilot"
+  },
+  {
+    "title": "Data Migration Task: Product Catalog — Scalability"
+  },
+  {
+    "title": "Incident: Backup & Restore — Hotfix"
+  },
+  {
+    "title": "Change Request: DevOps Pipeline — v2.0"
+  },
+  {
+    "title": "Quarterly Review: Web Portal — Scalability"
+  },
+  {
+    "title": "Onboarding Guide: Accessibility — Refactor"
+  },
+  {
+    "title": "Bug Report: Single Sign-On — Security"
+  },
+  {
+    "title": "Feature Request: Fraud Detection — Phase 2"
+  },
+  {
+    "title": "Security Advisory: Inventory — MVP"
+  },
+  {
+    "title": "Dashboard: Orders — Refactor"
+  },
+  {
+    "title": "Service Catalogue: Caching — GA"
+  },
+  {
+    "title": "Epic: Geo-Location — MVP"
+  },
+  {
+    "title": "Security Advisory: Mobile App — Q2 2026"
+  },
+  {
+    "title": "Onboarding Guide: CI/CD — Security"
+  },
+  {
+    "title": "Customer Feedback: Data Lake — Phase 1"
+  },
+  {
+    "title": "API Specification: Geo-Location — Migration"
+  },
+  {
+    "title": "Epic: Fraud Detection — Phase 1"
+  },
+  {
+    "title": "Marketing Campaign: Customer 360 — Q2 2026"
+  },
+  {
+    "title": "Change Request: Inventory — Migration"
+  },
+  {
+    "title": "Compliance Update: Product Catalog — Phase 1"
+  },
+  {
+    "title": "Bug Report: Analytics — Beta"
+  },
+  {
+    "title": "Feature Request: Notifications — GA"
+  },
+  {
+    "title": "Onboarding Guide: Mobile App — Pilot"
+  },
+  {
+    "title": "User Story: Billing — Scalability"
+  },
+  {
+    "title": "Feature Request: Localization — Beta"
+  },
+  {
+    "title": "Compliance Update: Caching — Q1 2026"
+  },
+  {
+    "title": "Release Notes: Billing — Migration"
+  },
+  {
+    "title": "Security Advisory: Web Portal — Migration"
+  },
+  {
+    "title": "Customer Feedback: Monitoring — Phase 2"
+  },
+  {
+    "title": "Customer Feedback: Payments — v1.1"
+  },
+  {
+    "title": "Onboarding Guide: Notifications — Refactor"
+  },
+  {
+    "title": "User Story: Localization — Resilience"
+  },
+  {
+    "title": "Product Announcement: Mobile App — Security"
+  },
+  {
+    "title": "Quarterly Review: Reporting — v2.0"
+  },
+  {
+    "title": "Release Notes: Mobile App — Q2 2026"
+  },
+  {
+    "title": "Data Migration Task: Accessibility — Migration"
+  },
+  {
+    "title": "OKR: Data Lake — v2.0"
+  },
+  {
+    "title": "Data Migration Task: Product Catalog — GA"
+  },
+  {
+    "title": "Customer Feedback: Authentication — Migration"
+  },
+  {
+    "title": "Feature Request: Analytics — Security"
+  },
+  {
+    "title": "Incident: Caching — Refactor"
+  },
+  {
+    "title": "Knowledge Base: Payments — Refactor"
+  },
+  {
+    "title": "FAQ: Fraud Detection — Q1 2026"
+  },
+  {
+    "title": "User Story: Notifications — Q1 2026"
+  },
+  {
+    "title": "Compliance Update: Reporting — Migration"
+  },
+  {
+    "title": "Data Migration Task: Data Lake — v1.1"
+  },
+  {
+    "title": "Security Advisory: Accessibility — Beta"
+  },
+  {
+    "title": "Knowledge Base: Fraud Detection — Usability"
+  },
+  {
+    "title": "Knowledge Base: Authentication — v2.0"
+  },
+  {
+    "title": "Compliance Update: Billing — Phase 2"
+  },
+  {
+    "title": "Incident: Notifications — Resilience"
+  },
+  {
+    "title": "Data Migration Task: Monitoring — Scalability"
+  },
+  {
+    "title": "Security Advisory: Accessibility — Usability"
+  },
+  {
+    "title": "OKR: Payments — Refactor"
+  },
+  {
+    "title": "OKR: Backup & Restore — Hotfix"
+  },
+  {
+    "title": "Knowledge Base: File Storage — Rollback Plan"
+  },
+  {
+    "title": "User Story: Supply Chain — Security"
+  },
+  {
+    "title": "Training Module: Orders — Refactor"
+  },
+  {
+    "title": "Compliance Update: Analytics — v1.0"
+  },
+  {
+    "title": "Epic: Performance — Pilot"
+  },
+  {
+    "title": "Release Notes: Loyalty Program — MVP"
+  },
+  {
+    "title": "Feature Request: Monitoring — Rollback Plan"
+  },
+  {
+    "title": "Training Module: Customer 360 — Security"
+  },
+  {
+    "title": "Security Advisory: Analytics — Phase 1"
+  },
+  {
+    "title": "Security Advisory: Localization — Pilot"
+  },
+  {
+    "title": "Compliance Update: File Storage — v1.1"
+  },
+  {
+    "title": "Invoice Reconciliation: Search — Security"
+  },
+  {
+    "title": "Dashboard: Monitoring — Refactor"
+  },
+  {
+    "title": "User Story: Supply Chain — Q1 2026"
+  },
+  {
+    "title": "API Specification: Search — Security"
+  },
+  {
+    "title": "Epic: Monitoring — Hotfix"
+  },
+  {
+    "title": "Integration Checklist: Single Sign-On — v1.0"
+  },
+  {
+    "title": "Service Catalogue: Backup & Restore — Hotfix"
+  },
+  {
+    "title": "Quarterly Review: Single Sign-On — Phase 2"
+  },
+  {
+    "title": "Quarterly Review: Notifications — Rollback Plan"
+  },
+  {
+    "title": "Marketing Campaign: Inventory — Q1 2026"
+  },
+  {
+    "title": "Feature Request: Search — Availability"
+  },
+  {
+    "title": "Security Advisory: Payments — Scalability"
+  },
+  {
+    "title": "Knowledge Base: Payments — GA"
+  },
+  {
+    "title": "Integration Checklist: Performance — Q2 2026"
+  },
+  {
+    "title": "OKR: Data Lake — GA"
+  },
+  {
+    "title": "Service Catalogue: Analytics — GA"
+  },
+  {
+    "title": "Feature Request: Payments — Phase 2"
+  },
+  {
+    "title": "Quarterly Review: Backup & Restore — Phase 2"
+  },
+  {
+    "title": "Invoice Reconciliation: Web Portal — Scalability"
+  },
+  {
+    "title": "User Story: Backup & Restore — Refactor"
+  },
+  {
+    "title": "Quarterly Review: Web Portal — GA"
+  },
+  {
+    "title": "Sprint Goal: Orders — Phase 2"
+  },
+  {
+    "title": "API Specification: DevOps Pipeline — Optimization"
+  },
+  {
+    "title": "OKR: Accessibility — Rollback Plan"
+  },
+  {
+    "title": "Product Announcement: Orders — Q1 2026"
+  },
+  {
+    "title": "Service Catalogue: File Storage — Availability"
+  },
+  {
+    "title": "OKR: Customer 360 — Pilot"
+  },
+  {
+    "title": "FAQ: Single Sign-On — Q1 2026"
+  },
+  {
+    "title": "Test Case: Inventory — Beta"
+  },
+  {
+    "title": "Onboarding Guide: Analytics — v1.0"
+  },
+  {
+    "title": "Service Catalogue: Single Sign-On — Refactor"
+  },
+  {
+    "title": "Dashboard: CI/CD — Security"
+  },
+  {
+    "title": "Feature Request: Analytics — Availability"
+  },
+  {
+    "title": "Epic: Supply Chain — Availability"
+  },
+  {
+    "title": "Security Advisory: Accessibility — Security"
+  },
+  {
+    "title": "Customer Feedback: Supply Chain — Rollback Plan"
+  },
+  {
+    "title": "Onboarding Guide: Orders — v2.0"
+  },
+  {
+    "title": "Security Advisory: Customer 360 — GA"
+  },
+  {
+    "title": "API Specification: Accessibility — v2.0"
+  },
+  {
+    "title": "Procurement Request: Loyalty Program — GA"
+  },
+  {
+    "title": "Change Request: Payments — MVP"
+  },
+  {
+    "title": "Data Quality Issue: Search — v2.0"
+  },
+  {
+    "title": "User Story: Reporting — Phase 1"
+  },
+  {
+    "title": "Procurement Request: Payments — v1.1"
+  },
+  {
+    "title": "Test Case: Geo-Location — Optimization"
+  },
+  {
+    "title": "API Specification: Loyalty Program — Optimization"
+  },
+  {
+    "title": "Knowledge Base: Loyalty Program — Refactor"
+  },
+  {
+    "title": "User Story: File Storage — Refactor"
+  },
+  {
+    "title": "OKR: Product Catalog — Security"
+  },
+  {
+    "title": "Product Announcement: CI/CD — Pilot"
+  },
+  {
+    "title": "API Specification: Geo-Location — v2.0"
+  },
+  {
+    "title": "OKR: Product Catalog — v1.1"
+  },
+  {
+    "title": "Sprint Goal: Payments — GA"
+  },
+  {
+    "title": "Compliance Update: Web Portal — v2.0"
+  },
+  {
+    "title": "API Specification: DevOps Pipeline — v2.0"
+  },
+  {
+    "title": "Marketing Campaign: Loyalty Program — v2.0"
+  },
+  {
+    "title": "Data Migration Task: Chatbot — v1.0"
+  },
+  {
+    "title": "Incident: Accessibility — Q1 2026"
+  },
+  {
+    "title": "Roadmap Item: Loyalty Program — Optimization"
+  },
+  {
+    "title": "API Specification: Authentication — Phase 1"
+  },
+  {
+    "title": "Epic: Notifications — Q2 2026"
+  },
+  {
+    "title": "Incident: Backup & Restore — Usability"
+  },
+  {
+    "title": "Procurement Request: Supply Chain — Usability"
+  },
+  {
+    "title": "Compliance Update: Localization — Beta"
+  },
+  {
+    "title": "Sprint Goal: Search — Phase 1"
+  },
+  {
+    "title": "Feature Request: Billing — Security"
+  },
+  {
+    "title": "Marketing Campaign: Caching — Rollback Plan"
+  },
+  {
+    "title": "Release Notes: Fraud Detection — v2.0"
+  },
+  {
+    "title": "Sprint Goal: Caching — Resilience"
+  },
+  {
+    "title": "Customer Feedback: Payments — Q2 2026"
+  },
+  {
+    "title": "API Specification: Accessibility — Beta"
+  },
+  {
+    "title": "Bug Report: Chatbot — Phase 1"
+  },
+  {
+    "title": "Sprint Goal: Monitoring — Refactor"
+  },
+  {
+    "title": "Knowledge Base: Chatbot — MVP"
+  },
+  {
+    "title": "Test Case: Analytics — Hotfix"
+  },
+  {
+    "title": "API Specification: Geo-Location — v1.1"
+  },
+  {
+    "title": "Compliance Update: Geo-Location — Migration"
+  },
+  {
+    "title": "Compliance Update: Search — MVP"
+  },
+  {
+    "title": "Quarterly Review: Authentication — Phase 2"
+  },
+  {
+    "title": "Invoice Reconciliation: Backup & Restore — Phase 1"
+  },
+  {
+    "title": "Bug Report: Localization — Hotfix"
+  },
+  {
+    "title": "OKR: File Storage — Optimization"
+  },
+  {
+    "title": "Invoice Reconciliation: Single Sign-On — Pilot"
+  },
+  {
+    "title": "Marketing Campaign: Authentication — Refactor"
+  },
+  {
+    "title": "Architecture Decision Record: Email Service — Optimization"
+  },
+  {
+    "title": "Marketing Campaign: Localization — Rollback Plan"
+  },
+  {
+    "title": "Quarterly Review: Loyalty Program — Pilot"
+  },
+  {
+    "title": "Knowledge Base: Inventory — v2.0"
+  },
+  {
+    "title": "Test Case: Loyalty Program — v1.1"
+  },
+  {
+    "title": "Training Module: Single Sign-On — Scalability"
+  },
+  {
+    "title": "OKR: Single Sign-On — Availability"
+  },
+  {
+    "title": "Onboarding Guide: Web Portal — Migration"
+  },
+  {
+    "title": "API Specification: Analytics — Q2 2026"
+  },
+  {
+    "title": "Feature Request: Fraud Detection — v2.0"
+  },
+  {
+    "title": "FAQ: Fraud Detection — Q2 2026"
+  },
+  {
+    "title": "Architecture Decision Record: Accessibility — Phase 2"
+  },
+  {
+    "title": "Architecture Decision Record: Performance — MVP"
+  },
+  {
+    "title": "Epic: Supply Chain — v2.0"
+  },
+  {
+    "title": "Bug Report: Billing — Usability"
+  },
+  {
+    "title": "Test Case: File Storage — GA"
+  },
+  {
+    "title": "Change Request: Supply Chain — v1.0"
+  },
+  {
+    "title": "OKR: Backup & Restore — Availability"
+  },
+  {
+    "title": "Quarterly Review: Email Service — Optimization"
+  },
+  {
+    "title": "Customer Feedback: Fraud Detection — Phase 2"
+  },
+  {
+    "title": "Onboarding Guide: Single Sign-On — Security"
+  },
+  {
+    "title": "Quarterly Review: CI/CD — Phase 1"
+  },
+  {
+    "title": "Integration Checklist: Web Portal — Security"
+  },
+  {
+    "title": "Invoice Reconciliation: Web Portal — Beta"
+  },
+  {
+    "title": "Data Migration Task: Fraud Detection — MVP"
+  },
+  {
+    "title": "Test Case: Accessibility — Rollback Plan"
+  },
+  {
+    "title": "Quarterly Review: Performance — Rollback Plan"
+  },
+  {
+    "title": "Feature Request: Analytics — MVP"
+  },
+  {
+    "title": "Test Case: Data Lake — Availability"
+  },
+  {
+    "title": "Roadmap Item: Localization — Refactor"
+  },
+  {
+    "title": "Feature Request: Billing — GA"
+  },
+  {
+    "title": "Procurement Request: Chatbot — MVP"
+  },
+  {
+    "title": "Data Migration Task: Customer 360 — v1.0"
+  },
+  {
+    "title": "Epic: Caching — Beta"
+  },
+  {
+    "title": "Dashboard: Backup & Restore — Phase 1"
+  },
+  {
+    "title": "Dashboard: Search — Phase 2"
+  },
+  {
+    "title": "Sprint Goal: DevOps Pipeline — Migration"
+  },
+  {
+    "title": "Compliance Update: DevOps Pipeline — Optimization"
+  },
+  {
+    "title": "Data Quality Issue: Geo-Location — Q2 2026"
+  },
+  {
+    "title": "Integration Checklist: Caching — Optimization"
+  },
+  {
+    "title": "Procurement Request: Chatbot — Scalability"
+  },
+  {
+    "title": "Dashboard: Customer 360 — v1.1"
+  },
+  {
+    "title": "Training Module: Monitoring — Q1 2026"
+  },
+  {
+    "title": "Bug Report: Inventory — Scalability"
+  },
+  {
+    "title": "Test Case: Data Lake — Scalability"
+  },
+  {
+    "title": "Data Migration Task: Single Sign-On — v1.0"
+  },
+  {
+    "title": "API Specification: Notifications — Q2 2026"
+  },
+  {
+    "title": "Architecture Decision Record: Authentication — Pilot"
+  },
+  {
+    "title": "Feature Request: Geo-Location — v1.1"
+  },
+  {
+    "title": "Integration Checklist: Customer 360 — Q2 2026"
+  },
+  {
+    "title": "Compliance Update: Customer 360 — Migration"
+  },
+  {
+    "title": "Training Module: Billing — Resilience"
+  },
+  {
+    "title": "Integration Checklist: Web Portal — v1.0"
+  },
+  {
+    "title": "Security Advisory: Customer 360 — Rollback Plan"
+  },
+  {
+    "title": "Roadmap Item: Geo-Location — Q1 2026"
+  },
+  {
+    "title": "Dashboard: Chatbot — Security"
+  },
+  {
+    "title": "Marketing Campaign: Customer 360 — Hotfix"
+  },
+  {
+    "title": "API Specification: Caching — MVP"
+  },
+  {
+    "title": "Procurement Request: Caching — v2.0"
+  },
+  {
+    "title": "Invoice Reconciliation: Notifications — Pilot"
+  },
+  {
+    "title": "Product Announcement: Search — Q2 2026"
+  },
+  {
+    "title": "Compliance Update: Accessibility — Optimization"
+  },
+  {
+    "title": "Training Module: Payments — v1.0"
+  },
+  {
+    "title": "Knowledge Base: Supply Chain — Phase 2"
+  },
+  {
+    "title": "Product Announcement: Analytics — Availability"
+  },
+  {
+    "title": "OKR: Payments — Pilot"
+  },
+  {
+    "title": "Compliance Update: Performance — Beta"
+  },
+  {
+    "title": "Compliance Update: Fraud Detection — Refactor"
+  },
+  {
+    "title": "Dashboard: Customer 360 — Migration"
+  },
+  {
+    "title": "Compliance Update: Notifications — Migration"
+  },
+  {
+    "title": "Sprint Goal: Localization — Scalability"
+  },
+  {
+    "title": "Architecture Decision Record: Performance — Refactor"
+  },
+  {
+    "title": "Quarterly Review: Web Portal — v1.0"
+  },
+  {
+    "title": "Training Module: Localization — Hotfix"
+  },
+  {
+    "title": "Marketing Campaign: Accessibility — Availability"
+  },
+  {
+    "title": "Roadmap Item: Inventory — Beta"
+  },
+  {
+    "title": "Bug Report: Orders — MVP"
+  },
+  {
+    "title": "Product Announcement: Orders — MVP"
+  },
+  {
+    "title": "Compliance Update: Accessibility — Resilience"
+  },
+  {
+    "title": "Sprint Goal: Notifications — Phase 2"
+  },
+  {
+    "title": "Training Module: CI/CD — Pilot"
+  },
+  {
+    "title": "Data Migration Task: Authentication — Availability"
+  },
+  {
+    "title": "Test Case: Localization — GA"
+  },
+  {
+    "title": "FAQ: Data Lake — v1.0"
+  },
+  {
+    "title": "Product Announcement: Chatbot — Beta"
+  },
+  {
+    "title": "Compliance Update: Supply Chain — Optimization"
+  },
+  {
+    "title": "Test Case: Billing — v1.1"
+  },
+  {
+    "title": "Architecture Decision Record: Notifications — GA"
+  },
+  {
+    "title": "Procurement Request: Backup & Restore — Pilot"
+  },
+  {
+    "title": "FAQ: File Storage — Resilience"
+  },
+  {
+    "title": "OKR: Chatbot — Hotfix"
+  },
+  {
+    "title": "Training Module: Inventory — Q1 2026"
+  },
+  {
+    "title": "Architecture Decision Record: Localization — Usability"
+  },
+  {
+    "title": "API Specification: Inventory — Phase 1"
+  },
+  {
+    "title": "Knowledge Base: Data Lake — MVP"
+  },
+  {
+    "title": "Procurement Request: Monitoring — Usability"
+  },
+  {
+    "title": "Invoice Reconciliation: Supply Chain — Q1 2026"
+  },
+  {
+    "title": "FAQ: Loyalty Program — GA"
+  },
+  {
+    "title": "Product Announcement: Mobile App — Pilot"
+  },
+  {
+    "title": "User Story: Search — Beta"
+  },
+  {
+    "title": "Incident: Monitoring — GA"
+  },
+  {
+    "title": "User Story: Reporting — Security"
+  },
+  {
+    "title": "Sprint Goal: Geo-Location — Phase 1"
+  },
+  {
+    "title": "Knowledge Base: Authentication — Resilience"
+  },
+  {
+    "title": "Quarterly Review: Single Sign-On — Availability"
+  },
+  {
+    "title": "Bug Report: Chatbot — Q2 2026"
+  },
+  {
+    "title": "Training Module: Web Portal — Refactor"
+  },
+  {
+    "title": "Feature Request: Product Catalog — Phase 2"
+  },
+  {
+    "title": "Onboarding Guide: Notifications — GA"
+  },
+  {
+    "title": "Incident: Single Sign-On — Migration"
+  },
+  {
+    "title": "Onboarding Guide: Orders — Q1 2026"
+  },
+  {
+    "title": "Invoice Reconciliation: Mobile App — Rollback Plan"
+  },
+  {
+    "title": "Epic: Accessibility — Q1 2026"
+  },
+  {
+    "title": "Epic: Accessibility — v1.1"
+  },
+  {
+    "title": "Release Notes: Geo-Location — MVP"
+  },
+  {
+    "title": "Data Quality Issue: CI/CD — Q1 2026"
+  },
+  {
+    "title": "Quarterly Review: CI/CD — Q1 2026"
+  },
+  {
+    "title": "Knowledge Base: Monitoring — v2.0"
+  },
+  {
+    "title": "Onboarding Guide: Performance — Optimization"
+  },
+  {
+    "title": "Product Announcement: Fraud Detection — Refactor"
+  },
+  {
+    "title": "Incident: Chatbot — Refactor"
+  },
+  {
+    "title": "Release Notes: Authentication — Usability"
+  },
+  {
+    "title": "Data Quality Issue: DevOps Pipeline — Hotfix"
+  },
+  {
+    "title": "Release Notes: Loyalty Program — GA"
+  },
+  {
+    "title": "Invoice Reconciliation: Caching — Scalability"
+  },
+  {
+    "title": "Data Quality Issue: Payments — v1.0"
+  },
+  {
+    "title": "Product Announcement: DevOps Pipeline — Pilot"
+  },
+  {
+    "title": "Security Advisory: Backup & Restore — Hotfix"
+  },
+  {
+    "title": "Sprint Goal: Data Lake — Phase 1"
+  },
+  {
+    "title": "Test Case: Email Service — Security"
+  },
+  {
+    "title": "Sprint Goal: Analytics — v2.0"
+  },
+  {
+    "title": "Architecture Decision Record: Authentication — Beta"
+  },
+  {
+    "title": "Roadmap Item: Email Service — GA"
+  },
+  {
+    "title": "Incident: Loyalty Program — Phase 2"
+  },
+  {
+    "title": "Epic: Loyalty Program — Rollback Plan"
+  },
+  {
+    "title": "User Story: CI/CD — Q2 2026"
+  },
+  {
+    "title": "API Specification: Supply Chain — Refactor"
+  },
+  {
+    "title": "Release Notes: Search — Pilot"
+  },
+  {
+    "title": "Procurement Request: Data Lake — Q2 2026"
+  },
+  {
+    "title": "Procurement Request: Payments — Security"
+  },
+  {
+    "title": "Training Module: Analytics — Phase 1"
+  },
+  {
+    "title": "User Story: Backup & Restore — Resilience"
+  },
+  {
+    "title": "OKR: Authentication — Refactor"
+  },
+  {
+    "title": "Data Migration Task: Accessibility — MVP"
+  },
+  {
+    "title": "Invoice Reconciliation: File Storage — Availability"
+  },
+  {
+    "title": "Feature Request: Performance — v1.1"
+  },
+  {
+    "title": "FAQ: Web Portal — Resilience"
+  },
+  {
+    "title": "Architecture Decision Record: Payments — v1.1"
+  },
+  {
+    "title": "Service Catalogue: Web Portal — Optimization"
+  },
+  {
+    "title": "Change Request: Billing — Phase 1"
+  },
+  {
+    "title": "Marketing Campaign: Reporting — Rollback Plan"
+  },
+  {
+    "title": "Service Catalogue: Data Lake — Q2 2026"
+  },
+  {
+    "title": "Service Catalogue: Localization — Resilience"
+  },
+  {
+    "title": "FAQ: Web Portal — Scalability"
+  },
+  {
+    "title": "Compliance Update: Performance — Availability"
+  },
+  {
+    "title": "Architecture Decision Record: Loyalty Program — Phase 1"
+  },
+  {
+    "title": "Training Module: DevOps Pipeline — Availability"
+  },
+  {
+    "title": "Customer Feedback: Inventory — Phase 1"
+  },
+  {
+    "title": "OKR: Web Portal — Rollback Plan"
+  },
+  {
+    "title": "Data Quality Issue: Performance — Q2 2026"
+  },
+  {
+    "title": "Invoice Reconciliation: Reporting — Scalability"
+  },
+  {
+    "title": "Data Quality Issue: Customer 360 — Optimization"
+  },
+  {
+    "title": "Sprint Goal: Analytics — v1.1"
+  },
+  {
+    "title": "Marketing Campaign: Chatbot — Q2 2026"
+  },
+  {
+    "title": "Service Catalogue: Supply Chain — Rollback Plan"
+  },
+  {
+    "title": "Epic: Search — v1.0"
+  },
+  {
+    "title": "Release Notes: Localization — v2.0"
+  },
+  {
+    "title": "Bug Report: CI/CD — Scalability"
+  },
+  {
+    "title": "Data Migration Task: Reporting — Resilience"
+  },
+  {
+    "title": "Security Advisory: Geo-Location — Beta"
+  },
+  {
+    "title": "Compliance Update: Geo-Location — v1.1"
+  },
+  {
+    "title": "Customer Feedback: Caching — Q1 2026"
+  },
+  {
+    "title": "Dashboard: Authentication — Beta"
+  },
+  {
+    "title": "Incident: DevOps Pipeline — Phase 1"
+  },
+  {
+    "title": "Customer Feedback: Product Catalog — v1.1"
+  },
+  {
+    "title": "Release Notes: Product Catalog — Phase 2"
+  },
+  {
+    "title": "FAQ: Accessibility — Q1 2026"
+  },
+  {
+    "title": "Roadmap Item: Reporting — v2.0"
+  },
+  {
+    "title": "User Story: Caching — GA"
+  },
+  {
+    "title": "API Specification: Web Portal — Refactor"
+  },
+  {
+    "title": "Test Case: Geo-Location — MVP"
+  },
+  {
+    "title": "OKR: Fraud Detection — Resilience"
+  },
+  {
+    "title": "Data Migration Task: Monitoring — Q1 2026"
+  },
+  {
+    "title": "Customer Feedback: Data Lake — v1.1"
+  },
+  {
+    "title": "Dashboard: Analytics — Phase 1"
+  },
+  {
+    "title": "Incident: Supply Chain — Security"
+  },
+  {
+    "title": "Knowledge Base: Monitoring — Security"
+  },
+  {
+    "title": "FAQ: Geo-Location — Q1 2026"
+  },
+  {
+    "title": "Roadmap Item: Billing — Hotfix"
+  },
+  {
+    "title": "Roadmap Item: Payments — Phase 2"
+  },
+  {
+    "title": "Knowledge Base: Supply Chain — Rollback Plan"
+  },
+  {
+    "title": "Customer Feedback: Loyalty Program — Optimization"
+  },
+  {
+    "title": "Change Request: Authentication — v2.0"
+  },
+  {
+    "title": "Compliance Update: Accessibility — GA"
+  },
+  {
+    "title": "Release Notes: Backup & Restore — Scalability"
+  },
+  {
+    "title": "Invoice Reconciliation: DevOps Pipeline — Security"
+  },
+  {
+    "title": "Procurement Request: Single Sign-On — Pilot"
+  },
+  {
+    "title": "FAQ: Product Catalog — GA"
+  },
+  {
+    "title": "Training Module: Email Service — Availability"
+  },
+  {
+    "title": "Customer Feedback: Fraud Detection — Pilot"
+  },
+  {
+    "title": "Knowledge Base: Customer 360 — Resilience"
+  },
+  {
+    "title": "Test Case: Data Lake — Usability"
+  },
+  {
+    "title": "Data Migration Task: Performance — v1.1"
+  },
+  {
+    "title": "Release Notes: Accessibility — Q1 2026"
+  },
+  {
+    "title": "Training Module: Product Catalog — Rollback Plan"
+  },
+  {
+    "title": "Dashboard: Chatbot — Q1 2026"
+  },
+  {
+    "title": "Bug Report: CI/CD — Rollback Plan"
+  },
+  {
+    "title": "Epic: Search — GA"
+  },
+  {
+    "title": "Compliance Update: Authentication — Scalability"
+  },
+  {
+    "title": "Security Advisory: File Storage — Resilience"
+  },
+  {
+    "title": "Test Case: Billing — Pilot"
+  },
+  {
+    "title": "OKR: Single Sign-On — Migration"
+  },
+  {
+    "title": "Bug Report: Product Catalog — Rollback Plan"
+  },
+  {
+    "title": "Change Request: Orders — Phase 1"
+  },
+  {
+    "title": "Knowledge Base: DevOps Pipeline — Resilience"
+  },
+  {
+    "title": "Release Notes: Web Portal — Refactor"
+  },
+  {
+    "title": "Incident: Authentication — Usability"
+  },
+  {
+    "title": "Marketing Campaign: Payments — v2.0"
+  },
+  {
+    "title": "OKR: Performance — Availability"
+  },
+  {
+    "title": "Product Announcement: Inventory — Scalability"
+  },
+  {
+    "title": "Marketing Campaign: Notifications — Resilience"
+  },
+  {
+    "title": "FAQ: Geo-Location — GA"
+  },
+  {
+    "title": "User Story: Caching — v1.1"
+  },
+  {
+    "title": "Architecture Decision Record: Search — Migration"
+  },
+  {
+    "title": "Epic: File Storage — Availability"
+  },
+  {
+    "title": "Roadmap Item: Chatbot — Hotfix"
+  },
+  {
+    "title": "Service Catalogue: Geo-Location — Phase 1"
+  },
+  {
+    "title": "Release Notes: Orders — Hotfix"
+  },
+  {
+    "title": "Architecture Decision Record: Accessibility — Beta"
+  },
+  {
+    "title": "Marketing Campaign: Email Service — Hotfix"
+  },
+  {
+    "title": "Service Catalogue: Web Portal — v1.1"
+  },
+  {
+    "title": "Data Migration Task: Analytics — Rollback Plan"
+  },
+  {
+    "title": "Customer Feedback: Reporting — Availability"
+  },
+  {
+    "title": "Data Quality Issue: Notifications — Phase 1"
+  },
+  {
+    "title": "Integration Checklist: Product Catalog — Refactor"
+  },
+  {
+    "title": "Service Catalogue: Orders — Phase 1"
+  },
+  {
+    "title": "Invoice Reconciliation: Fraud Detection — v1.1"
+  },
+  {
+    "title": "Integration Checklist: Accessibility — Security"
+  },
+  {
+    "title": "Customer Feedback: CI/CD — Migration"
+  },
+  {
+    "title": "Change Request: Localization — Security"
+  },
+  {
+    "title": "Training Module: Data Lake — Rollback Plan"
+  },
+  {
+    "title": "Release Notes: Email Service — v1.1"
+  },
+  {
+    "title": "Marketing Campaign: Supply Chain — Optimization"
+  },
+  {
+    "title": "Architecture Decision Record: Single Sign-On — Rollback Plan"
+  },
+  {
+    "title": "Integration Checklist: Email Service — Q1 2026"
+  },
+  {
+    "title": "Service Catalogue: Single Sign-On — Q1 2026"
+  },
+  {
+    "title": "Procurement Request: Caching — Phase 2"
+  },
+  {
+    "title": "Customer Feedback: Billing — Availability"
+  },
+  {
+    "title": "Roadmap Item: Loyalty Program — GA"
+  },
+  {
+    "title": "Training Module: Loyalty Program — Refactor"
+  },
+  {
+    "title": "Incident: Performance — Pilot"
+  },
+  {
+    "title": "Compliance Update: Billing — GA"
+  },
+  {
+    "title": "Sprint Goal: Geo-Location — Phase 2"
+  },
+  {
+    "title": "Onboarding Guide: Fraud Detection — Availability"
+  },
+  {
+    "title": "Service Catalogue: Loyalty Program — Scalability"
+  },
+  {
+    "title": "Sprint Goal: Caching — Usability"
+  },
+  {
+    "title": "Dashboard: Orders — Usability"
+  },
+  {
+    "title": "Product Announcement: Notifications — Q2 2026"
+  },
+  {
+    "title": "Data Quality Issue: Performance — Beta"
+  },
+  {
+    "title": "FAQ: Customer 360 — Phase 2"
+  },
+  {
+    "title": "Service Catalogue: Accessibility — Q1 2026"
+  },
+  {
+    "title": "Training Module: File Storage — Resilience"
+  },
+  {
+    "title": "Epic: Backup & Restore — Phase 1"
+  },
+  {
+    "title": "Invoice Reconciliation: Customer 360 — Usability"
+  },
+  {
+    "title": "Knowledge Base: Single Sign-On — Security"
+  },
+  {
+    "title": "FAQ: Backup & Restore — Optimization"
+  },
+  {
+    "title": "Sprint Goal: Loyalty Program — Optimization"
+  },
+  {
+    "title": "OKR: Payments — Scalability"
+  },
+  {
+    "title": "Customer Feedback: Payments — Refactor"
+  },
+  {
+    "title": "Data Quality Issue: Reporting — Q1 2026"
+  },
+  {
+    "title": "Sprint Goal: Localization — MVP"
+  },
+  {
+    "title": "Onboarding Guide: Caching — v1.1"
+  },
+  {
+    "title": "Service Catalogue: Monitoring — Beta"
+  },
+  {
+    "title": "Data Quality Issue: CI/CD — Usability"
+  },
+  {
+    "title": "Feature Request: Customer 360 — Migration"
+  },
+  {
+    "title": "Customer Feedback: Performance — Usability"
+  },
+  {
+    "title": "Dashboard: Search — Resilience"
+  },
+  {
+    "title": "Marketing Campaign: Billing — Pilot"
+  },
+  {
+    "title": "Training Module: Monitoring — Beta"
+  },
+  {
+    "title": "Service Catalogue: Localization — v1.1"
+  },
+  {
+    "title": "Integration Checklist: Billing — Refactor"
+  },
+  {
+    "title": "Marketing Campaign: Authentication — v1.0"
+  },
+  {
+    "title": "Procurement Request: Reporting — Q2 2026"
+  },
+  {
+    "title": "Roadmap Item: Product Catalog — Migration"
+  },
+  {
+    "title": "Architecture Decision Record: Search — Resilience"
+  },
+  {
+    "title": "User Story: CI/CD — Security"
+  },
+  {
+    "title": "Data Quality Issue: CI/CD — Q2 2026"
+  },
+  {
+    "title": "Sprint Goal: Geo-Location — Q1 2026"
+  },
+  {
+    "title": "Customer Feedback: Billing — v1.1"
+  },
+  {
+    "title": "Incident: Reporting — Usability"
+  },
+  {
+    "title": "Compliance Update: Data Lake — Q1 2026"
+  },
+  {
+    "title": "Quarterly Review: Product Catalog — MVP"
+  },
+  {
+    "title": "Release Notes: Orders — Migration"
+  },
+  {
+    "title": "Service Catalogue: Supply Chain — Phase 2"
+  },
+  {
+    "title": "Feature Request: Data Lake — GA"
+  },
+  {
+    "title": "Roadmap Item: Authentication — Resilience"
+  },
+  {
+    "title": "Roadmap Item: Caching — Beta"
+  },
+  {
+    "title": "Marketing Campaign: Customer 360 — v2.0"
+  },
+  {
+    "title": "OKR: Backup & Restore — GA"
+  },
+  {
+    "title": "Training Module: Search — Q1 2026"
+  },
+  {
+    "title": "Training Module: Mobile App — Scalability"
+  },
+  {
+    "title": "API Specification: Fraud Detection — Usability"
+  },
+  {
+    "title": "Marketing Campaign: Billing — v2.0"
+  },
+  {
+    "title": "User Story: Search — Q2 2026"
+  },
+  {
+    "title": "FAQ: Orders — GA"
+  },
+  {
+    "title": "User Story: Inventory — Q2 2026"
+  },
+  {
+    "title": "Invoice Reconciliation: Performance — Scalability"
+  },
+  {
+    "title": "Release Notes: Web Portal — Hotfix"
+  },
+  {
+    "title": "Change Request: Search — Resilience"
+  },
+  {
+    "title": "Roadmap Item: Supply Chain — Availability"
+  },
+  {
+    "title": "Security Advisory: Authentication — GA"
+  },
+  {
+    "title": "Test Case: Supply Chain — Phase 1"
+  },
+  {
+    "title": "Test Case: Reporting — Usability"
+  },
+  {
+    "title": "Procurement Request: Inventory — v1.0"
+  },
+  {
+    "title": "Integration Checklist: Email Service — Hotfix"
+  },
+  {
+    "title": "Training Module: Monitoring — Scalability"
+  },
+  {
+    "title": "Change Request: Chatbot — v1.1"
+  },
+  {
+    "title": "Sprint Goal: Loyalty Program — Resilience"
+  },
+  {
+    "title": "Data Quality Issue: Orders — Scalability"
+  },
+  {
+    "title": "Bug Report: Web Portal — Q1 2026"
+  },
+  {
+    "title": "Invoice Reconciliation: File Storage — Usability"
+  },
+  {
+    "title": "Release Notes: Accessibility — v2.0"
+  },
+  {
+    "title": "Invoice Reconciliation: Notifications — Optimization"
+  },
+  {
+    "title": "Architecture Decision Record: Web Portal — Q2 2026"
+  },
+  {
+    "title": "Marketing Campaign: Caching — Optimization"
+  },
+  {
+    "title": "Product Announcement: Caching — v2.0"
+  },
+  {
+    "title": "Procurement Request: Localization — Phase 2"
+  },
+  {
+    "title": "Release Notes: Geo-Location — GA"
+  },
+  {
+    "title": "Feature Request: Mobile App — v2.0"
+  },
+  {
+    "title": "Marketing Campaign: Mobile App — Security"
+  },
+  {
+    "title": "Architecture Decision Record: Search — MVP"
+  },
+  {
+    "title": "Product Announcement: Billing — Optimization"
+  },
+  {
+    "title": "FAQ: Web Portal — Usability"
+  },
+  {
+    "title": "Release Notes: Accessibility — Availability"
+  },
+  {
+    "title": "Bug Report: CI/CD — Security"
+  },
+  {
+    "title": "Feature Request: Backup & Restore — v2.0"
+  },
+  {
+    "title": "User Story: Supply Chain — Scalability"
+  },
+  {
+    "title": "Customer Feedback: Inventory — Beta"
+  },
+  {
+    "title": "Roadmap Item: Mobile App — Beta"
+  },
+  {
+    "title": "Invoice Reconciliation: Supply Chain — Migration"
+  },
+  {
+    "title": "Test Case: Billing — v1.0"
+  },
+  {
+    "title": "Security Advisory: Data Lake — Refactor"
+  },
+  {
+    "title": "OKR: Monitoring — Usability"
+  },
+  {
+    "title": "Sprint Goal: Accessibility — Phase 2"
+  },
+  {
+    "title": "Sprint Goal: Localization — Resilience"
+  },
+  {
+    "title": "User Story: Payments — Usability"
+  },
+  {
+    "title": "Dashboard: File Storage — Phase 2"
+  },
+  {
+    "title": "Customer Feedback: Authentication — v1.0"
+  },
+  {
+    "title": "Marketing Campaign: File Storage — v2.0"
+  },
+  {
+    "title": "Sprint Goal: Notifications — Hotfix"
+  },
+  {
+    "title": "Data Quality Issue: Fraud Detection — Resilience"
+  },
+  {
+    "title": "Dashboard: Email Service — Phase 2"
+  },
+  {
+    "title": "API Specification: Analytics — Pilot"
+  },
+  {
+    "title": "Roadmap Item: Caching — MVP"
+  },
+  {
+    "title": "Data Quality Issue: Web Portal — Q1 2026"
+  },
+  {
+    "title": "FAQ: Monitoring — Security"
+  },
+  {
+    "title": "Dashboard: Authentication — Usability"
+  },
+  {
+    "title": "Change Request: Accessibility — Usability"
+  },
+  {
+    "title": "Bug Report: Inventory — v2.0"
+  },
+  {
+    "title": "Compliance Update: Web Portal — Q2 2026"
+  },
+  {
+    "title": "Procurement Request: Single Sign-On — Rollback Plan"
+  },
+  {
+    "title": "Epic: Customer 360 — Phase 2"
+  },
+  {
+    "title": "FAQ: Accessibility — Pilot"
+  },
+  {
+    "title": "Customer Feedback: Inventory — Availability"
+  },
+  {
+    "title": "Bug Report: Loyalty Program — Q2 2026"
+  },
+  {
+    "title": "Epic: Chatbot — Migration"
+  },
+  {
+    "title": "Epic: Performance — Beta"
+  },
+  {
+    "title": "Service Catalogue: Single Sign-On — Phase 2"
+  },
+  {
+    "title": "Quarterly Review: Single Sign-On — Hotfix"
+  },
+  {
+    "title": "OKR: Orders — Optimization"
+  },
+  {
+    "title": "API Specification: Payments — GA"
+  },
+  {
+    "title": "Security Advisory: Monitoring — Pilot"
+  },
+  {
+    "title": "Service Catalogue: DevOps Pipeline — Resilience"
+  },
+  {
+    "title": "Incident: Reporting — Hotfix"
+  },
+  {
+    "title": "Onboarding Guide: Localization — GA"
+  },
+  {
+    "title": "Change Request: Customer 360 — Beta"
+  },
+  {
+    "title": "Knowledge Base: File Storage — Phase 1"
+  },
+  {
+    "title": "Bug Report: Caching — MVP"
+  },
+  {
+    "title": "Dashboard: Caching — Phase 2"
+  },
+  {
+    "title": "Data Migration Task: File Storage — Q2 2026"
+  },
+  {
+    "title": "Compliance Update: DevOps Pipeline — Resilience"
+  },
+  {
+    "title": "Bug Report: DevOps Pipeline — v2.0"
+  },
+  {
+    "title": "Data Migration Task: Payments — Scalability"
+  },
+  {
+    "title": "Product Announcement: Payments — Security"
+  },
+  {
+    "title": "Quarterly Review: Billing — Security"
+  },
+  {
+    "title": "Data Quality Issue: Supply Chain — v1.1"
+  },
+  {
+    "title": "Marketing Campaign: Reporting — Usability"
+  },
+  {
+    "title": "Data Migration Task: File Storage — Rollback Plan"
+  },
+  {
+    "title": "Product Announcement: CI/CD — Phase 2"
+  },
+  {
+    "title": "User Story: Billing — Pilot"
+  },
+  {
+    "title": "Data Migration Task: CI/CD — Security"
+  },
+  {
+    "title": "Procurement Request: Product Catalog — Beta"
+  },
+  {
+    "title": "Onboarding Guide: Geo-Location — Scalability"
+  },
+  {
+    "title": "Training Module: Mobile App — Refactor"
+  },
+  {
+    "title": "User Story: Email Service — v1.0"
+  },
+  {
+    "title": "FAQ: Search — Availability"
+  },
+  {
+    "title": "FAQ: Analytics — Scalability"
+  },
+  {
+    "title": "Onboarding Guide: Geo-Location — Q1 2026"
+  },
+  {
+    "title": "FAQ: Product Catalog — Phase 2"
+  },
+  {
+    "title": "Procurement Request: DevOps Pipeline — Rollback Plan"
+  },
+  {
+    "title": "User Story: Authentication — Pilot"
+  },
+  {
+    "title": "Invoice Reconciliation: Chatbot — Pilot"
+  },
+  {
+    "title": "Bug Report: Reporting — Hotfix"
+  },
+  {
+    "title": "Security Advisory: Authentication — Q2 2026"
+  },
+  {
+    "title": "Training Module: Supply Chain — Hotfix"
+  },
+  {
+    "title": "Test Case: Chatbot — Migration"
+  },
+  {
+    "title": "Data Migration Task: Authentication — v1.1"
+  },
+  {
+    "title": "Product Announcement: Orders — Phase 1"
+  },
+  {
+    "title": "Service Catalogue: Email Service — Resilience"
+  },
+  {
+    "title": "Architecture Decision Record: Reporting — MVP"
+  },
+  {
+    "title": "Quarterly Review: File Storage — Security"
+  }
+]
