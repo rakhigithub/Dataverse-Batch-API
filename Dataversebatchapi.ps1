@@ -1,3 +1,5 @@
+##powershell script to read title from json file and create bulk records in Dataverse table using Dataverse API
+
 # URL for your Dataverse environment batch url
 $batchRequestUrl = 'https://<dataverse environment url>/api/data/v9.2/$batch'
 
